@@ -37,6 +37,7 @@
 * [Sam](http://blog.isming.me/)
 * [冯建](http://jayfeng.com/)
 * [Jlog](http://www.race604.com/)
+* [GcsSloop](http://www.gcssloop.com/)
 
 ### 网站
 
@@ -65,6 +66,10 @@
 ### 四大组件
 
 ### NDK开发
+
+### Gradle
+
+[一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
 
 ### 性能优化
 
