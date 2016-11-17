@@ -69,13 +69,13 @@
 
 ### Gradle
 
-[Gradle学习文档](https://docs.gradle.org/current/release-notes)
-[Gradle 用户指南中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
-[Gradle2.0用户指南中文版] (http://pkaq.org/gradledoc/docs/userguide/userguide.html)
-[Gradle Android插件用户指南](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
-[Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
-[一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
-[极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
+* [Gradle学习文档](https://docs.gradle.org/current/release-notes)
+* [Gradle 用户指南中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
+* [Gradle2.0用户指南中文版] (http://pkaq.org/gradledoc/docs/userguide/userguide.html)
+* [Gradle Android插件用户指南](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
+* [Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
+* [一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
+* [极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
 
 ### 性能优化
 
