@@ -22,7 +22,7 @@
 * [任玉刚](http://blog.csdn.net/singwhatiwanna)
 * [郭霖的专栏](http://blog.csdn.net/guolin_blog)
 * [徐宜生](http://blog.csdn.net/eclipsexys)
-* [张鸿洋] (http://blog.csdn.net/lmj623565791)
+* [张鸿洋](http://blog.csdn.net/lmj623565791)
 * [Mr.Simple专栏](http://blog.csdn.net/bboyfeiyu)
 * [秋百万](https://www.liaohuqiu.net/cn/)
 * [Lite Your Android](http://litesuits.com/)
@@ -45,7 +45,7 @@
 * [CSDN-知识库-ReactNative](http://lib.csdn.net/base/reactnative)
 * [CSDN-知识库-直播技术](http://lib.csdn.net/base/liveplay)
 
-### 开源项目
+### 优秀开源项目
 
 * [square开源](http://square.github.io)
 * [AndroidLibs](https://github.com/XXApple/AndroidLibs)
@@ -57,15 +57,25 @@
 * [美团点评技术团队](http://tech.meituan.com/)
 * [AlloyTeam腾讯全端团队](http://www.alloyteam.com/mobiledevelop/android/)
 
-### 开发总结
+### Android 开发
 
+#### adb
 
-### 面试相关
+* [awesome-adb adb命令大全](https://github.com/mzlogin/awesome-adb)
 
+#### 插件和热修复
 
-### 四大组件
+#### 性能优化
 
-### NDK开发
+[Best Practices for Performance](https://developer.android.com/training/best-performance.html)
+[Performance Profiling Tools](https://developer.android.com/studio/profile/index.html)
+[Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
+
+#### 图片
+
+* [Glide — Getting Started Series Overview](https://futurestud.io/tutorials/glide-getting-started)
+
+### 面试
 
 ### Gradle
 
@@ -76,14 +86,3 @@
 * [Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
 * [一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
 * [极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
-
-### 性能优化
-
-[Best Practices for Performance](https://developer.android.com/training/best-performance.html)
-[Performance Profiling Tools](https://developer.android.com/studio/profile/index.html)
-[Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
-
-### 图片
-
-* [Glide — Getting Started Series Overview](https://futurestud.io/tutorials/glide-getting-started)
-
