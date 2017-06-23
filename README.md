@@ -13,6 +13,16 @@
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [干货集中营](http://gank.io/)
 
+
+### 常用资源聚合和导航
+
+* [Java资源大全-github](https://github.com/jobbole/awesome-java-cn)
+* [Android资源大全](https://github.com/jobbole/awesome-android-cn)
+* [设计资源大全](https://github.com/jobbole/awesome-design-cn)
+* [AndroidLibs](https://github.com/XXApple/AndroidLibs)
+* [深度OPEN开源库](http://www.open-open.com/lib/list/177)
+* [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
+
 ### 优秀博客
 
 * [技术小黑屋](http://droidyue.com/)
@@ -86,3 +96,5 @@
 * [Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
 * [一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
 * [极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
+
+
