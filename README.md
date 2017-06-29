@@ -1,5 +1,11 @@
 # Android开发日常收藏
 
+### Android 专题
+
+* [Android面试](./android/interview.md)
+* [插件化、组件化、热修复](./android/plugin.md)
+* [Android FrameWork](./android/framework.md)
+
 ### 常用网站
 
 * [Android Developers](https://developer.android.com/develop/index.html?hl=zh-cn)
@@ -75,11 +81,13 @@
 
 #### 插件和热修复
 
+
+
 #### 性能优化
 
-[Best Practices for Performance](https://developer.android.com/training/best-performance.html)
-[Performance Profiling Tools](https://developer.android.com/studio/profile/index.html)
-[Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
+* [Best Practices for Performance](https://developer.android.com/training/best-performance.html)
+* [Performance Profiling Tools](https://developer.android.com/studio/profile/index.html)
+* [Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
 
 #### 图片
 
@@ -96,5 +104,3 @@
 * [Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
 * [一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
 * [极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
-
-
