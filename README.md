@@ -54,6 +54,7 @@
 * [冯建](http://jayfeng.com/)
 * [Jlog](http://www.race604.com/)
 * [GcsSloop](http://www.gcssloop.com/)
+* [BlackSwift](http://www.jianshu.com/u/b99b0edd4e77)
 
 ### 网站
 
@@ -104,3 +105,5 @@
 * [Gradle DSL 语言API](http://google.github.io/android-gradle-dsl/current/)
 * [一篇非常不错的Gradle学习专栏](http://blog.csdn.net/column/details/itfootball-gradle.html)
 * [极客学院wiki上Gradle教程的集合](http://wiki.jikexueyuan.com/list/automation/)
+
+
