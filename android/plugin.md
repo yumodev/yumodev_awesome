@@ -19,6 +19,7 @@
 ### 总结
 
 * [Android客户端插件化热修复学习总结](http://tanfujun.com/2016/07/19/Android%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8F%92%E4%BB%B6%E5%8C%96%E7%83%AD%E4%BF%AE%E5%A4%8D%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+* [Android 组件化 & 模块化 & 插件化演进](https://juejin.im/post/59194428128fe1005ccfa763)
 
 ### 原理介绍
 
@@ -33,6 +34,11 @@
 * [阿里巴巴开源移动容器化框架Atlas的技术演进之路](https://s.amaprd.cc/yunqi/articles/88296)
 * [Atlas官方网站](http://atlas.taobao.org/)
 * [Atlas gitbook](https://alibaba.github.io/atlas/)
+* [淘宝Atlas框架初探atlas-core(一)](http://blog.csdn.net/jasonwang18/article/details/68620330)
+* [淘宝atlas框架初探atlas-core(二):Bundle插件化](http://blog.csdn.net/jasonwang18/article/details/69808688)
+* [开源Android容器化框架Atlas开发者指南](https://edu.aliyun.com/course/68/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.Y7OJOv)
+* [详解 Atlas 框架原理](http://www.xttblog.com/?p=1141)
+* [详解 Atlas 的技术原理](http://www.xttblog.com/?p=1144)
 
 ### RePlugin
 
