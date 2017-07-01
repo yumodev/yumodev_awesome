@@ -24,6 +24,7 @@
 ### 原理介绍
 
 * [Android 插件技术实战总结-陈上勇 腾讯Bugly](https://mp.weixin.qq.com/s/1p5Y0f5XdVXN2EZYT0AM_A)
+* [Android插件化入门指南](http://lruheng.com/2017/07/01/Android%E6%8F%92%E4%BB%B6%E5%8C%96%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 
 ### 博客专栏
 
