@@ -60,6 +60,12 @@
 * [GcsSloop](http://www.gcssloop.com/)
 * [BlackSwift](http://www.jianshu.com/u/b99b0edd4e77)
 * [时之沙](http://blog.csdn.net/t12x3456?viewmode=contents)
+* [drordna](http://android.walfud.com/) 质量不错。
+* [figotan](http://www.figotan.org/)
+* [邓凡平](http://blog.csdn.net/innost?viewmode=contents)
+* [jayfeng](http://jayfeng.com/)
+* [吴小龙](http://wuxiaolong.me/)
+* [王三的专栏](http://blog.csdn.net/xiaohanluo?viewmode=contents)
 
 ### 网站
 
