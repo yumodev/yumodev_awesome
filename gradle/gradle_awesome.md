@@ -16,6 +16,7 @@
 * [Gradle教程积累](http://www.jianshu.com/p/952ca955755a)
 * [Gradle一些文章](http://blog.bugtags.com/categories/code/)
 * [掘金收藏集-Gradle](https://juejin.im/collection/594eec506fb9a002200972ba)
+* [Gradle入门系列文章](http://www.cnblogs.com/davenkin/p/gradle-learning-1.html)
 
 ## 资源大全
 
