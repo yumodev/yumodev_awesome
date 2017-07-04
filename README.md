@@ -19,11 +19,11 @@
 
 ## Gradle
 
-* [Gradle 资源大全](./gradle_awesome.md)
+* [Gradle 资源大全](./gradle/gradle_awesome.md)
 
 ## 技术相关
 
-* [UML,PlantUml](./uml.md)
+* [UML、PlantUml](./code/uml.md)
 
 
 
