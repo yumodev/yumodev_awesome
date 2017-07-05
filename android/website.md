@@ -31,6 +31,8 @@
 * [AndroidLibs](https://github.com/XXApple/AndroidLibs)
 * [深度OPEN开源库](http://www.open-open.com/lib/list/177)
 * [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
+* [2017 上半年我整理的好文章（上）（98 篇）](http://blog.csdn.net/wufeng55/article/details/74165021)
+* [Andorid学习资料](http://blog.csdn.net/xiaole0313/article/details/54376967)
 
 
 ### 优秀博客
@@ -66,6 +68,10 @@
 * [jayfeng](http://jayfeng.com/)
 * [吴小龙](http://wuxiaolong.me/)
 * [王三的专栏](http://blog.csdn.net/xiaohanluo?viewmode=contents)
+* [吧主](http://blog.csdn.net/xiaole0313?viewmode=contents)
+* [张拭心的博客](http://blog.csdn.net/u011240877)
+* [baiiu](http://blog.csdn.net/u014099894?viewmode=contents)
+* [陶邦仁](https://my.oschina.net/xianggao/blog)
 
 ### 网站
 
