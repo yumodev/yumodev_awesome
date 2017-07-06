@@ -6,6 +6,7 @@
 * [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 * [Andorid开发面试大礼包](https://github.com/hujiaweibujidao/AndroidInterviews)
 * [程序员应聘/面试相关整理](https://zhuanlan.zhihu.com/p/26581011)
+* [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
 
 ### 经验总结
 
@@ -22,6 +23,7 @@
 * [杭州找 Android 工作的点点滴滴](https://juejin.im/post/590b1abe2f301e00582f26e8)
 * [［面经福利］如何进入百度、阿里，一个6年Android老司机的面经](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548208&idx=1&sn=2ff22db04700e16ad4764eafc7e72e0d&chksm=f1180ecdc66f87dbbc78a8a9d6c450a0d4ba93843bb9ccee69c9a574e50ec9e7cae83b83e415&scene=21#wechat_redirect)
 * [\[干货，阅后进BAT不是梦\]面试心得与总结---BAT、网易、蘑菇街](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=21#wechat_redirect)
+* [面试感悟：一名3年工作经验的程序员应该具备的技能](https://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651020152&idx=1&sn=31706c082faf35c74a5ac29efbbbc3aa&chksm=f20f7fa9c578f6bfab1d34c8a264541e625b0a0c8ce4a1900549d62e7f0309647eab7168ecd1&mpshare=1&scene=1&srcid=0217VZ9RuHDTbYXKHfJcOELH#rd)
 
 ### Android题目
 

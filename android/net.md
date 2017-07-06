@@ -9,8 +9,10 @@
 * [OkHttp3源码分析\[缓存策略\]](http://www.jianshu.com/p/9cebbbd0eeab)
 * [OkHttp3源码分析\[DiskLruCache\]](http://www.jianshu.com/p/23b8aa490a6b)
 * [OkHttp3源码分析\[任务队列\]](http://www.jianshu.com/p/6637369d02e7)
-
+* [从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
 ### 使用
+
+* [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
 
 
 
