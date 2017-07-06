@@ -61,6 +61,7 @@
 
 * [单链表的各种操作](http://www.61mon.com/index.php/archives/179/)
 * [一篇文章搞定面试中链表题目](http://www.jianshu.com/p/a64d1ef95980)
+
 ### 栈和队列
 
 ### 树
@@ -73,11 +74,13 @@
 ### 图
 
 * [一道经典 DFS 题（深度优先）- 算法编程实践](https://juejin.im/post/584fade10ce463005c6a9e97)
+
 ### 排序
 
 * [面试常见算法-排序查找算法](http://blog.csdn.net/derrantcm/article/details/46591085)
 * [算法 常见的排序算法](http://blog.csdn.net/u014099894/article/details/72638013)
 * [一遍记住Java常用的八种排序算法与代码实现](http://www.jianshu.com/p/5e171281a387)
+
 ### 查找
 
 ## 算法思想
