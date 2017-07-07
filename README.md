@@ -32,7 +32,8 @@
 * [UML](./code/uml.md)
 
   uml、plantuml的使用
-* [算法](./algorithm/algorithm.md)
+
+* [算法](./code/algorithm.md)
 	
 	关于算法的网址，社区，blog，面试，数据结构等精华资源
 * [git](./code/git.md)
