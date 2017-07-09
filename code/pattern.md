@@ -9,3 +9,9 @@
 
 * [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
 
+## 设计模式
+
+### 单例模式
+
+* [如何正确写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+

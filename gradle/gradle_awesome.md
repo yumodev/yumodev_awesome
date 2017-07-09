@@ -33,6 +33,7 @@
 * [Android Studio中gradle的一些玩法](https://juejin.im/post/589d1036b123db16a3c6d6d1)
 * [Gradle用户使用指南](http://blog.csdn.net/xiaohanluo/article/details/72644979)
 
+
 ### 优化
 
 * [知道Android 中Gradle 的这些技巧，提升编译构建速度](http://tikitoo.github.io/2016/05/26/android-studio-gradle-build-run-faster/)
@@ -42,6 +43,8 @@
 
 * [Android打包的那些事](http://jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 * [Gradle for Android（三）多渠道打包、配置签名信息](http://wuxiaolong.me/2016/04/01/gradle4android3/)
+* [Android Studio多渠道打包和代码混淆教程](http://www.ezlippi.com/blog/2015/03/android-studio-prefrence.html)
+
 ### 发布
 
 * [我是如何将Pluto作为library分享到jCenter](https://juejin.im/post/58c57901a22b9d0058aebd32)
@@ -55,6 +58,7 @@
 
 ## Groovy
 
+* [Groovy语法](http://groovy-lang.org/single-page-documentation.html)
 * [Groovy脚本基础全攻略](http://blog.csdn.net/yanbober/article/details/49047515)
 
 
