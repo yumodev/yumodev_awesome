@@ -21,9 +21,28 @@
 
 * [Gradle 资源大全](./gradle/gradle_awesome.md)
 
+## Java
+
+* [Java大全](./java/awesome.md)
+* [并发编程](./java/thread.md)
+* [集合](./java/collect.md)
+
 ## 技术相关
 
-* [UML、PlantUml](./code/uml.md)
+* [UML](./code/uml.md)
+
+  uml、plantuml的使用
+
+* [算法](./code/algorithm.md)
+	
+	关于算法的网址，社区，blog，面试，数据结构等精华资源
+* [git](./code/git.md)
+
+	git书籍，教程，使用指南等收藏
+* [设计模式](./code/pattern.md)
+* [技术博客](./code/blog.md)
+  
+  Android，Java开发相关的blog
 
 
 
