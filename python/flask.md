@@ -13,6 +13,7 @@
 * [Flask Tutorical-面向初学者的Python教程](http://defshine.github.io/awesome-flask-todo/)
 * [Flask用户指南](http://wiki.jikexueyuan.com/project/flask-guide/)
 * [Flask10天开发一个网站](http://www.jianshu.com/p/1278c7ee0cc7)
+* [探索Flask](http://www.pythondoc.com/exploreflask/index.html#)
 
 ## 源码
 

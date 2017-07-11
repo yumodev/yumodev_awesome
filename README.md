@@ -27,6 +27,10 @@
 * [并发编程](./java/thread.md)
 * [集合](./java/collect.md)
 
+## Python
+
+* [Flask框架](./python/flask.md)
+
 ## 技术相关
 
 * [UML](./code/uml.md)
