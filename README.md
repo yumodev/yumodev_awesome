@@ -29,6 +29,7 @@
 
 ## Python
 
+* [Python资源](./python/python.md)
 * [Flask框架](./python/flask.md)
 
 ## 技术相关
