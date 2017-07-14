@@ -34,20 +34,28 @@
 
 ## 技术相关
 
+* [技术博客](./code/blog.md)
+  
+  Android，Java开发相关的blog
+  
+* [算法](./code/algorithm.md)
+	
+	关于算法的网址，社区，blog，面试，数据结构等精华资源
+	
+* [设计模式](./code/pattern.md)
+  
+* [git](./code/git.md)
+
+	git书籍，教程，使用指南等收藏
+
+* [JSON](./code/json.md)
+
+	JSON、GSON的使用
 * [UML](./code/uml.md)
 
   uml、plantuml的使用
 
-* [算法](./code/algorithm.md)
-	
-	关于算法的网址，社区，blog，面试，数据结构等精华资源
-* [git](./code/git.md)
 
-	git书籍，教程，使用指南等收藏
-* [设计模式](./code/pattern.md)
-* [技术博客](./code/blog.md)
-  
-  Android，Java开发相关的blog
 
 
 
