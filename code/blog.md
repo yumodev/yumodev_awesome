@@ -8,6 +8,7 @@
 
 * [技术小黑屋](http://droidyue.com/)
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
+* [刘望舒](http://liuwangshu.cn/)
 * [猴子搬来的救兵Castiel](http://blog.csdn.net/mynameishuangshuai/article/list/1)
 * [胡凯](http://hukai.me/)
 * [任玉刚](http://blog.csdn.net/singwhatiwanna)
@@ -42,7 +43,7 @@
 * [baiiu](http://blog.csdn.net/u014099894?viewmode=contents)
 * [陶邦仁](https://my.oschina.net/xianggao/blog)
 * [亦枫Blog](http://blog.csdn.net/growing_tree?viewmode=contents)
-* [刘望舒](http://liuwangshu.cn/)
+
 
 ## Java
 
