@@ -14,4 +14,5 @@
 ### 单例模式
 
 * [如何正确写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+* [单例模式的七种写法](http://liuwangshu.cn/designpatterns/2-singleton.html)
 

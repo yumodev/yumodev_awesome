@@ -25,6 +25,7 @@
 
 * [Android 插件技术实战总结-陈上勇 腾讯Bugly](https://mp.weixin.qq.com/s/1p5Y0f5XdVXN2EZYT0AM_A)
 * [Android插件化入门指南](http://lruheng.com/2017/07/01/Android%E6%8F%92%E4%BB%B6%E5%8C%96%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
+* [深入Android源码系列（二） HOOK技术大作战](https://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247484652&idx=1&sn=7795db9405e1ed1594d751410ddb7c7a&chksm=e9e42fddde93a6cbc29e56518b38dbd4ebf86aafe299d1f0dcd80a1397d9bdfbd814c18d0111&mpshare=1&scene=1&srcid=0701keGnFyIZE9R3UcCK05fG&pass_ticket=91RErZbXFPvN2AX5gQU1jbKrdy9f/uX4Lc7aUsm6P7KQZYd1mPxPguTn3eN0u+xK#rd)
 
 ### 博客专栏
 

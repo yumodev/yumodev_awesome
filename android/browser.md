@@ -7,4 +7,5 @@
 * [Android WebView 开发详解(三)](http://blog.csdn.net/typename/article/details/40302351)
 * [Android WebView常见问题及解决方案汇总](http://blog.csdn.net/t12x3456/article/details/13769731)
 * [WeiView使用详细攻略](https://juejin.im/post/5924dbf58d6d810058fdde43)
+* [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
 
