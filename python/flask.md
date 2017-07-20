@@ -18,10 +18,12 @@
 ## 源码
 
 * [Flask源码](https://github.com/pallets/flask)
+* [FlaskDemo](https://github.com/classTC/FlaskDemo)
 
 ## 安装
 
 ## 入门
 
 * [Flask入门指南](https://blog.igevin.info/posts/flask-startup-guideline/)
+* [Flask系列](http://www.jianshu.com/nb/3230222)
 
