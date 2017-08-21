@@ -39,6 +39,7 @@
 * [Android 知识梳理](https://juejin.im/post/587dbaf9570c3522010e400e)
 * [Android文章合集](https://github.com/ZQiang94/Andriod-collect-blogs)
 * [Andorid开发日常积累](https://github.com/lizhangqu/corelink)
+* [adb命令使用大全](https://github.com/mzlogin/awesome-adb)
 
 ### 网站
 

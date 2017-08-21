@@ -15,11 +15,15 @@
 
 * [Android博客周刊专题之插件化开发](http://www.androidblog.cn/index.php/Index/detail/id/16)
 * [Android插件化框架和热修复技术的资料收集和汇总](http://www.figotan.org/2016/08/12/android-plugin-and-hotfix-collections/)
+* [插件化](http://www.jianshu.com/nb/15648120)
+* [插件化总结](http://www.jianshu.com/p/6dcab1327380)
+* [ Android 插件化原理 完胜360插件框架 技术实战](http://blog.csdn.net/WHB20081815/article/details/76687490?locationNum=9&fps=1)
 
 ### 总结
 
 * [Android客户端插件化热修复学习总结](http://tanfujun.com/2016/07/19/Android%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8F%92%E4%BB%B6%E5%8C%96%E7%83%AD%E4%BF%AE%E5%A4%8D%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
 * [Android 组件化 & 模块化 & 插件化演进](https://juejin.im/post/59194428128fe1005ccfa763)
+* [有关插件化的思考](http://www.jianshu.com/p/9601c4938d02)
 
 ### 原理介绍
 
@@ -30,6 +34,10 @@
 ### 博客专栏
 
 * [Weishu's Notes](http://weishu.me/archives/)：系统插件化文章，主要是独立插件
+
+### 组件化
+
+* [Android彻底组件化方案实践](http://www.jianshu.com/p/1b1d77f58e84?utm_source=androidweekly.cn&utm_medium=website)
 
 ### Atlas
 
@@ -43,6 +51,32 @@
 * [详解 Atlas 的技术原理](http://www.xttblog.com/?p=1144)
 
 ### RePlugin
+
+#### 网址
+
+* [社区官网](https://replugin.org/)
+
+#### 原理解析
+
+* [Replugin 全面解析(1)](http://www.jianshu.com/p/5994c2db1557)
+* [Replugin 全面解析(2)](http://www.jianshu.com/p/8465585b3507)
+* [Android全面插件化RePlugin流程与源码解析](http://www.jianshu.com/p/18530be5dcdd)
+* [http://www.jianshu.com/p/ca3bda0800b6](http://www.jianshu.com/p/ca3bda0800b6)
+* [replugin源码解析之replugin-plugin-gradle（插件的gradle插件）](http://www.jianshu.com/p/a9b3aaba8e45)
+* [\[Android\]用架构师角度看插件化(3)-Replugin 需要占坑跳转？](http://www.jianshu.com/p/056e2f56c965)
+* [[Android\]用架构师角度看插件化(2)-Replugin 唯一hook点](http://www.jianshu.com/p/04b6bb9de643)
+* [RePlugin原理](http://www.jianshu.com/p/a59763bde6b5)
+#### 使用
+
+* [\[Android\]用架构师角度看插件化(1)-Replugin入门剖析](http://www.jianshu.com/p/ef938ba8cfa7)
+* [全面插件化时代RePlugin来临](http://www.jianshu.com/p/e82510ed787f)
+* [插件化框架 RePlugin 应用之一：配置及内置插件](http://www.jianshu.com/p/f0a90905e806)
+* [插件化框架 RePlugin 应用之二：内置插件的升级、卸载](http://www.jianshu.com/p/3d01e11cec08)
+* [插件化框架 RePlugin 应用之三：外置插件](http://www.jianshu.com/p/3b80bcf37dec)
+* [Replugin开源插件化解决方案教程](http://www.jianshu.com/p/3b4b62921e07)
+* [Replugin android.app.fragment兼容处理方案](http://www.jianshu.com/p/74481341182f)
+* [RePlugin外置插件使用](http://www.jianshu.com/p/22b4dec9a2ca)
+* [360插件化Replugin爬坑之路](http://blog.csdn.net/sw950729/article/details/76509004)
 
 ### Small
 
