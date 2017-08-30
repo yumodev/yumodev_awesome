@@ -77,6 +77,8 @@
 ## Fragment
 
 * [Android Fragment 的使用，一些你不可不知的注意事项](http://yifeng.studio/2016/12/15/android-fragment-attentions/)
+* [【Android开发】之Fragment重要函数讲解] (http://www.cnblogs.com/MMLoveMeMM/articles/4261385.html)
+* [Android_Fragment_Fragment详解](http://blog.csdn.net/zimo2013/article/details/12239349)
 
 ## 资源
 
@@ -84,6 +86,21 @@
 * [Android应用程序资源的编译和打包过程分析](http://blog.csdn.net/luoshengyang/article/details/8744683)
 * [Android应用程序资源管理器（Asset Manager）的创建过程分析](http://blog.csdn.net/luoshengyang/article/details/8791064)
 * [Android应用程序资源的查找过程分析](http://blog.csdn.net/luoshengyang/article/details/8806798)
+
+## SharePreference
+
+* [PreferenceActivity文档](http://developer.android.com/intl/zh-cn/reference/android/preference/PreferenceActivity.html)
+*  [Android研究院之应用程序PreferenceActivity](http://www.xuanyusong.com/archives/155)
+*  [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
+* [ Android应用Preference相关及源码浅析(Preference组件家族篇)](http://blog.csdn.net/yanbober/article/details/47954653?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Android应用Preference相关及源码浅析(SharePreferences篇)](http://blog.csdn.net/yanbober/article/details/47866369)
+* [自定义 Preference Header 布局](http://blog.csdn.net/ixiaobu/article/details/9493633)
+* [android Preference之android:dependency](http://aswang.iteye.com/blog/1073946)
+* [android设置界面之Preference](http://www.jianshu.com/p/6d6f84e2f50d)
+* [Android：详解如何创建Google风格的SettingsActivity](http://www.jianshu.com/p/f5f8834ee9af)
+* [Android-自定义preference和PreferenceFragment实例详解](http://blog.csdn.net/jack__frost/article/details/52167279)
+
+
 
 
 

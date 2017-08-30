@@ -5,6 +5,7 @@
 * [自定义View大全](https://github.com/xinghongfei/awesome-view)
 * [自定义控件三部曲](http://blog.csdn.net/harvic880925/article/details/50995268)
 * [自定义View合集](http://blog.csdn.net/u011507982/article/details/51199644)
+
 ## View
 * [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65)
 

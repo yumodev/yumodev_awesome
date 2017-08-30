@@ -2,20 +2,23 @@
 
 ## Android 
 
-* [网址 、博客、教程大全](./android/website.md)
+* [Android社区、资源、教程大全](./android/website.md)
 * [Android面试](./android/interview.md)
-* [插件化、组件化、热修复](./android/plugin.md)
+* [Android并发编程、RxJava](./android/多线程.md)
+* [插件化、组件化、热修复](./android/插件化.md)
 * [Android Framework](./android/framework.md)
-* [RxJava](./android/rxjava.md)
 * [View](./android/view.md)
 * [性能优化](./andorid/performance.md)
 * [网络相关、okhttp](./andorid/net.md)
 * [虚拟机,GC,内存等](./andorid/jvm.md)
 * [WebView相关](./android/browser.md)
 * [图片、Glide等](./andorid/image.md)
-* [Android Studio](./andorid/as.md)
-* [开源项目集合](./android/andorid_open.md)
-* [sharepreference](./android/sharepreference.md)
+* [开发工具](./andorid/开发工具.md)
+* [开源项目集合](./android/open.md)
+* [Andorid开发相关](./android/android.md)
+* [NDK开发](./android/ndk.md)
+* [ReactNative](./android/reactnative.md)
+* [设计模式，架构](./android/架构.md)
 
 ## Gradle
 

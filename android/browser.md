@@ -1,4 +1,4 @@
-# Android浏览器，WebView，内核相关的东东
+# Android浏览器，WebView，JS等开发相关。
 
 ## WebView
 
