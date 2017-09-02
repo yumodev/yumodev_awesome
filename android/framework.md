@@ -35,6 +35,7 @@
 * [IntentService示例和详解](http://www.jianshu.com/p/332b6daf91f0)
 
 ### 原理
+
 * [startService启动过程分析](http://gityuan.com/2016/03/06/start-service/)
 * [刘望舒-Service启动过程](http://liuwangshu.cn/framework/component/2-service-start.html)
 * [刘望舒-Service绑定过程](http://liuwangshu.cn/framework/component/3-service-bind.html)
@@ -63,6 +64,7 @@
 
 * [Android aidl Binder框架浅析](http://blog.csdn.net/lmj623565791/article/details/38461079)
 * [刘望舒-Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)
+* [AIDL的基本使用](http://www.fqxyi.com/Android/IPC/AIDL%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/)
 
 ## View
 
@@ -79,6 +81,12 @@
 * [Android Fragment 的使用，一些你不可不知的注意事项](http://yifeng.studio/2016/12/15/android-fragment-attentions/)
 * [【Android开发】之Fragment重要函数讲解] (http://www.cnblogs.com/MMLoveMeMM/articles/4261385.html)
 * [Android_Fragment_Fragment详解](http://blog.csdn.net/zimo2013/article/details/12239349)
+* [Android系列之Fragment（二）----Fragment的生命周期和返回栈](http://www.cnblogs.com/smyhvae/p/3983234.html)
+* [让多个Fragment切换时不重新初始化](http://www.yrom.net/blog/2013/03/10/fragment-switch-not-restart/)
+* [Fragment的真正解析上](http://blog.csdn.net/lmj623565791/article/details/37970961)
+* [Fragment的真正解析下](http://blog.csdn.net/lmj623565791/article/details/37992017)
+* [DialogFragment创建对话框](http://blog.csdn.net/lmj623565791/article/details/37815413)
+* [关于Fragment你该知道的一切](http://blog.csdn.net/lmj623565791/article/details/42628537)
 
 ## 资源
 

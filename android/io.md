@@ -1,0 +1,5 @@
+### Sqlite
+
+
+* [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
+

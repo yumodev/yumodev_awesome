@@ -3,6 +3,7 @@
 ## 精华
 
 * [Android App 性能优化系列结语篇](https://juejin.im/post/581f4ad667f3560058a33057)
+
 ## 性能优化
 
 * [Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
@@ -33,4 +34,11 @@
 * [Best Practices for Performance](https://developer.android.com/training/best-performance.html)
 * [Performance Profiling Tools](https://developer.android.com/studio/profile/index.html)
 * [Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
+
+
+### StrictMode
+
+[StrictMode](https://developer.android.com/reference/android/os/StrictMode.html)
+[Android性能调优利器StrictMode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
+[ Android严苛模式StrictMode使用详解](http://blog.csdn.net/mynameishuangshuai/article/details/51742375)
 
