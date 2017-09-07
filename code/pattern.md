@@ -4,6 +4,8 @@
 
 * [DERRANTCM-设计模式](http://blog.csdn.net/DERRANTCM/article/category/2949317)
 * [shixin 学设计模式](http://blog.csdn.net/column/details/zsxdesignpattern.html)
+* [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+* [史上最全设计模式导学目录(完整版)](http://blog.csdn.net/lovelion/article/details/17517213)
 
 ## 精华文章
 
@@ -15,4 +17,5 @@
 
 * [如何正确写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
 * [单例模式的七种写法](http://liuwangshu.cn/designpatterns/2-singleton.html)
+* [正确使用双重检查锁(DCL)](https://my.oschina.net/u/866190/blog/205454)
 
