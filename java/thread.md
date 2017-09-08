@@ -8,6 +8,7 @@
 * [并发编程网 Java并发性和多线程介绍](http://ifeve.com/java-concurrency-thread-directory/)
 * [聊聊并发](http://ifeve.com/talk-concurrency/)
 * [IBM Java多线程与并发编程专题](https://www.ibm.com/developerworks/cn/java/j-concurrent/)
+* [Java线程文章集合](http://www.cnblogs.com/xrq730/category/733883.html)
 
 ## 线程
 
