@@ -3,6 +3,7 @@
 ## 知名博客
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [尼古拉斯.赵四](http://www.wjdiankong.cn/)
 
 ## Android
 
@@ -44,5 +45,8 @@
 * [陶邦仁](https://my.oschina.net/xianggao/blog)
 * [亦枫Blog](http://blog.csdn.net/growing_tree?viewmode=contents)
 * [classTc的博客](http://classtc.com/)
+
 ## Java
+
+* [五月的仓颉](http://www.cnblogs.com/xrq730/)
 
