@@ -50,6 +50,8 @@
 
 * [ContentProvider启动过程](http://liuwangshu.cn/framework/component/5-contentprovider-start.html)
 * [ Android应用程序组件Content Provider应用实例](http://blog.csdn.net/luoshengyang/article/details/6950440)
+* [ContentProvider从入门到精通](http://www.jianshu.com/p/f5ec75a9cfea)
+* [SharedPreferences多进程解决方案](http://blog.csdn.net/cjh94520/article/details/70880266)
 
 ## BroadCast
 
