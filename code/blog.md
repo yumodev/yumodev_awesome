@@ -45,6 +45,7 @@
 * [陶邦仁](https://my.oschina.net/xianggao/blog)
 * [亦枫Blog](http://blog.csdn.net/growing_tree?viewmode=contents)
 * [classTc的博客](http://classtc.com/)
+* [YogiAi](http://navyblue.top/)
 
 ## Java
 
