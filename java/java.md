@@ -1,5 +1,10 @@
 #Java进阶
 
+## 字符串
+
+* [Java 程序优化：字符串操作、基本运算方法等优化策略](https://www.ibm.com/developerworks/cn/java/j-lo-basic-types/index.html)
+* [Java中的字符串常量池](http://droidyue.com/blog/2014/12/21/string-literal-pool-in-java/)
+* [在java中String类为什么要设计成final？](https://www.zhihu.com/question/31345592)
 ## 反射
 
 * [知乎-学习java应该如何理解反射](https://www.zhihu.com/question/24304289)
