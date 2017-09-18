@@ -14,4 +14,5 @@
 ## 皮肤
 
 * [NexT](http://theme-next.iissnan.com/)
+* [Hexo搭建GitHub博客（三）- NexT主题配置使用](https://zhiho.github.io/2015/09/29/hexo-next/)
 
