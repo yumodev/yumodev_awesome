@@ -50,4 +50,5 @@
 ## Java
 
 * [五月的仓颉](http://www.cnblogs.com/xrq730/)
+* [zejian_](http://blog.csdn.net/javazejian)
 
