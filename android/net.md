@@ -10,9 +10,15 @@
 * [OkHttp3源码分析\[DiskLruCache\]](http://www.jianshu.com/p/23b8aa490a6b)
 * [OkHttp3源码分析\[任务队列\]](http://www.jianshu.com/p/6637369d02e7)
 * [从OKHttp框架看代码设计](https://juejin.im/post/581311cabf22ec0068826aff)
+
 ### 使用
 
 * [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
+
+## 流量
+
+* [获取手机流量的方法networkStatsManager](http://www.jianshu.com/p/fb4a7f05f421)
+* [Android流量统计TrafficStats类的使用](http://gundumw100.iteye.com/blog/1294167)
 
 
 

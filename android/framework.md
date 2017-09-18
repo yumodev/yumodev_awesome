@@ -49,6 +49,9 @@
 ## ContentProvider
 
 * [ContentProvider启动过程](http://liuwangshu.cn/framework/component/5-contentprovider-start.html)
+* [ Android应用程序组件Content Provider应用实例](http://blog.csdn.net/luoshengyang/article/details/6950440)
+* [ContentProvider从入门到精通](http://www.jianshu.com/p/f5ec75a9cfea)
+* [SharedPreferences多进程解决方案](http://blog.csdn.net/cjh94520/article/details/70880266)
 
 ## BroadCast
 
@@ -107,6 +110,7 @@
 * [android设置界面之Preference](http://www.jianshu.com/p/6d6f84e2f50d)
 * [Android：详解如何创建Google风格的SettingsActivity](http://www.jianshu.com/p/f5f8834ee9af)
 * [Android-自定义preference和PreferenceFragment实例详解](http://blog.csdn.net/jack__frost/article/details/52167279)
+* [关于SharedPreference踩的那些坑](https://shaohui.me/2016/10/20/%E5%85%B3%E4%BA%8ESharedPreference%E8%B8%A9%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91/)
 
 
 

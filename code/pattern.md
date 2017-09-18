@@ -19,3 +19,11 @@
 * [单例模式的七种写法](http://liuwangshu.cn/designpatterns/2-singleton.html)
 * [正确使用双重检查锁(DCL)](https://my.oschina.net/u/866190/blog/205454)
 
+### 工厂模式
+
+* [从头学习设计模式（三）——工厂方法模式](http://www.cnblogs.com/ytaozhao/p/3389883.html)
+* [抽象工厂模式和工厂模式的区别？](https://www.zhihu.com/question/20367734)
+* [Java中的工厂模式](http://www.jianshu.com/p/bf8341c75304)
+
+### 抽象工厂模式
+
