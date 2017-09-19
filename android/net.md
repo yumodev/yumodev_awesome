@@ -15,10 +15,7 @@
 
 * [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
 
-## 流量
 
-* [获取手机流量的方法networkStatsManager](http://www.jianshu.com/p/fb4a7f05f421)
-* [Android流量统计TrafficStats类的使用](http://gundumw100.iteye.com/blog/1294167)
 
 
 
