@@ -17,6 +17,7 @@
 * [Android系统中获取进程（和顶端包名）](http://www.jianshu.com/p/91f60bd0d1f9)
 * [ UsageStatsManager怎样使用问题详解和获取应用使用信息](http://blog.csdn.net/andoop/article/details/50593699)
 * [AndroidProcesses](https://github.com/jaredrummler/AndroidProcesses) Github上的一个获取当前进程列表的开源库，7.0系统一下有效。
+* [判断应用程序在前台、后台的方法。](http://www.jianshu.com/p/6dc85250a13b)
 
 ## 流量
 

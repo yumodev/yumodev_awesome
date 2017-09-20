@@ -71,6 +71,10 @@
 * [线段树知识点总结](https://juejin.im/post/58da3706128fe1006cd866c7)
 * [一篇文章搞定面试中的二叉树题目](http://www.jianshu.com/p/0190985635eb)
 * [二叉树的基本概念和实现](http://ccc013.github.io/2016/08/18/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E5%AE%9E%E7%8E%B0/)
+* [二叉树详解](http://longpo.iteye.com/blog/2195526)
+* [二叉树的各种操作（面试必备）](https://www.61mon.com/index.php/archives/191/)
+* [二叉树基础以及常用操作](https://vinoit.me/2016/10/27/binary-tree/)
+
 ### 图
 
 * [一道经典 DFS 题（深度优先）- 算法编程实践](https://juejin.im/post/584fade10ce463005c6a9e97)
