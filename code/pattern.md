@@ -27,3 +27,7 @@
 
 ### 抽象工厂模式
 
+### 代理模式
+
+* [Java 动态代理机制分析及扩展，第 1 部分](https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/index.html)
+
