@@ -24,3 +24,10 @@
 * [Android应用流量统计——NetworkStatsManager使用](http://blog.csdn.net/w7849516230/article/details/71705835)
 * [Android流量统计TrafficStats类的使用](http://gundumw100.iteye.com/blog/1294167)
 
+## 权限 RxPermissions
+
+
+* [Github-RxPermissions](https://github.com/tbruyelle/RxPermissions)
+* [RxPermissions源码解析](http://www.jianshu.com/p/c8a30200e6b2)
+* [RxPermissions获取运行时权限](http://www.jianshu.com/p/314e9e27592f)
+

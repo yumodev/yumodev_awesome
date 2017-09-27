@@ -3,7 +3,9 @@
 
 ## 官方文章
 
+* [NDK](https://developer.android.com/ndk/index.html)
 * [向您的项目添加 C 和 C++ 代码](https://developer.android.com/studio/projects/add-native-code.html)
+
 ## 系列教程
 
 * [NDK探究之旅](http://blog.csdn.net/androidstarjack/article/category/6899115)
