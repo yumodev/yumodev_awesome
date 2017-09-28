@@ -1,5 +1,12 @@
 ## Android Framework层的资源收藏
 
+## Andorid源码
+
+* [Android源代码](https://source.android.com/)
+* [AndroidXRef](http://androidxref.com/)
+* [Android-Framework-base源代码](https://android.googlesource.com/platform/frameworks/base/)
+* [2.0-5.0在线源码](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+
 ## Activity
 
 ### 原理
