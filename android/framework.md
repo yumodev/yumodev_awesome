@@ -47,6 +47,9 @@
 * [刘望舒-Service启动过程](http://liuwangshu.cn/framework/component/2-service-start.html)
 * [刘望舒-Service绑定过程](http://liuwangshu.cn/framework/component/3-service-bind.html)
 
+## ActivityManagerService
+
+* [Framework源码分析（一）：ActivityManagerService](http://www.jianshu.com/p/194a37755fea)
 ## Context
 
 * [Android Context 上下文 你必须知道的一切](http://blog.csdn.net/lmj623565791/article/details/40481055)
