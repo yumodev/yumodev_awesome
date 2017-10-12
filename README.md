@@ -27,8 +27,10 @@
 ## Java
 
 * [Java大全](./java/awesome.md)
-* [并发编程](./java/thread.md)
+* [Java知识点](./java/thread.md)
+* [并发编程](./java/java.md)
 * [集合](./java/collect.md)
+* [JVM](./java/JVM.md)
 
 ## Python
 
