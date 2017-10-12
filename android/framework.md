@@ -1,5 +1,12 @@
 ## Android Framework层的资源收藏
 
+## Andorid源码
+
+* [Android源代码](https://source.android.com/)
+* [AndroidXRef](http://androidxref.com/)
+* [Android-Framework-base源代码](https://android.googlesource.com/platform/frameworks/base/)
+* [2.0-5.0在线源码](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+
 ## Activity
 
 ### 原理
@@ -40,6 +47,9 @@
 * [刘望舒-Service启动过程](http://liuwangshu.cn/framework/component/2-service-start.html)
 * [刘望舒-Service绑定过程](http://liuwangshu.cn/framework/component/3-service-bind.html)
 
+## ActivityManagerService
+
+* [Framework源码分析（一）：ActivityManagerService](http://www.jianshu.com/p/194a37755fea)
 ## Context
 
 * [Android Context 上下文 你必须知道的一切](http://blog.csdn.net/lmj623565791/article/details/40481055)
