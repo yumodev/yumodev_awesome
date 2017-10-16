@@ -7,10 +7,17 @@
 * [自定义View合集](http://blog.csdn.net/u011507982/article/details/51199644)
 
 ## View
+
 * [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65)
 
-##自定义View
 
+### touch事件
+
+* [Android 用户界面交互---拖放（OnDragListener）](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2013/0311/1003.html)
+* [Android小Demo——OnDragListener](http://blog.csdn.net/u013983998/article/details/50536362)
+* [Touch事件之一 触摸及手势识别GestureDetectorCompat](http://www.jianshu.com/p/33a9ace2d154)
+
+## 自定义View
 
 ## Design support library
 
