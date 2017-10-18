@@ -9,6 +9,11 @@
 
 ## 入门
 
+* [Python内置函数](http://www.runoob.com/python/python-built-in-functions.html)
+* [Python2.7.8 内建函数](http://www.runoob.com/python/python-built-in-functions.html)
+* [Python:内建函数与对象方法](http://gohom.win/2015/10/19/pyBuildInMethod/)
+* [Python内置函数详解-总结篇](http://blog.csdn.net/oaa608868/article/details/53506188)
+
 ## 面试
 
 * [interview_python](https://github.com/taizilongxu/interview_python)
