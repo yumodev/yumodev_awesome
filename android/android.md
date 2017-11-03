@@ -31,3 +31,8 @@
 * [RxPermissions源码解析](http://www.jianshu.com/p/c8a30200e6b2)
 * [RxPermissions获取运行时权限](http://www.jianshu.com/p/314e9e27592f)
 
+##  MultiDex 
+
+* [配置方法数超过 64K 的应用](https://developer.android.com/studio/build/multidex.html#mdex-gradle)
+* [Android MultiDex 工作原理分析和优化方案](https://juejin.im/entry/584d096f0ce463005c5bd81a)
+
