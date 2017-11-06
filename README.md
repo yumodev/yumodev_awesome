@@ -21,6 +21,10 @@
 * [设计模式，架构](./android/架构.md)
 * [RxJava](./android/rxjava.md)
 
+## Kotlin
+
+* [Kotlin 资源大全](./kotlin/kotlin.md)
+
 ## Gradle
 
 * [Gradle 资源大全](./gradle/gradle_awesome.md)
