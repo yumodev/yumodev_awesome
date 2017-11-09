@@ -15,6 +15,8 @@
 * [菜鸟-Kotlin教程](http://www.runoob.com/kotlin/kotlin-tutorial.html)
 * [易百教程](http://www.yiibai.com/kotlin/)
 * [Kotlin入门教程](http://blog.csdn.net/aqi00/article/details/75283548)
+* [Kotlin最简单的入门教程](http://www.jianshu.com/p/f39b7886222a)
+* [知乎专栏-Kotlin学习之路](https://zhuanlan.zhihu.com/LearningKotlin)
 
 ## 学习资源
 
