@@ -33,6 +33,7 @@
 - [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 - [Webview上传文件的那些坑](http://blog.saymagic.cn/2015/11/08/webview-upload.html)
 - [android-动态添加包含WebView的Fragment显示空白](http://www.voidcn.com/article/p-bisknodk-rb.html)
+- [带你解决 WebView 里的常见问题](http://www.jianshu.com/p/fea5e829b30a)
 
 
 
