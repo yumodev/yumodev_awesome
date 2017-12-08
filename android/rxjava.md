@@ -37,6 +37,7 @@
 ## RxJava2.0
 
 * [1.0和2.0的不同](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0)
+* [RxJava1 升级到 RxJava2 所踩过的坑](https://juejin.im/post/58ce6cb2b123db3f6b3fcd2d)
 * [这可能是最好的RxJava 2.x 教程（完结版）](http://www.jianshu.com/p/0cd258eecf60)
 * [关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭](https://juejin.im/post/582b2c818ac24700618ff8f5)
 * [RxJava2总结](https://luhaoaimama1.github.io/2017/07/31/rxjava/)
