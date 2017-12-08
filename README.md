@@ -32,8 +32,8 @@
 ## Java
 
 * [Java大全](./java/awesome.md)
-* [Java知识点](./java/thread.md)
-* [并发编程](./java/java.md)
+* [Java知识点](./java/java.md)
+* [并发编程](./java/thread.md)
 * [集合](./java/collect.md)
 * [JVM](./java/JVM.md)
 

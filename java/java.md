@@ -2,11 +2,12 @@
 
 ## Java8
 
-## lambda表达式
+### lambda表达式
 
 * [Oracle Lambad Quick Start](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html)
 * [Java8 lambda表达式10个示例](http://www.importnew.com/16436.html)
 * [Java 8 Lambda 表达式详解](https://segmentfault.com/a/1190000009186509)
+
 ## 字符串
 
 * [Java 程序优化：字符串操作、基本运算方法等优化策略](https://www.ibm.com/developerworks/cn/java/j-lo-basic-types/index.html)
