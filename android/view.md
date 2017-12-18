@@ -17,7 +17,10 @@
 * [Android小Demo——OnDragListener](http://blog.csdn.net/u013983998/article/details/50536362)
 * [Touch事件之一 触摸及手势识别GestureDetectorCompat](http://www.jianshu.com/p/33a9ace2d154)
 
-## 自定义View
+## NestedScrolling
+
+* [ Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
+* [Android NestedScrolling机制](http://blog.csdn.net/lmj623565791/article/details/52204039)
 
 ## Design support library
 
@@ -65,7 +68,7 @@
 - [SnackbarsToasts](http://wiki.jikexueyuan.com/project/material-design/components/snackbars-and-toasts.html)
 		MaterialDesign中关于Snackbars详细设计定义，非常清晰的描述了Snackbar的使用场景和使用效果。
         
-###SwitchCompact
+### SwitchCompact
 
 - [Switch功能和用法](http://www.cnblogs.com/wolipengbo/p/3343539.html)
 - [Switch用法](http://blog.csdn.net/wanjf_912/article/details/7557532)
