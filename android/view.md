@@ -13,12 +13,36 @@
 
 ### touch事件
 
+* [Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
+* [一文读懂Android View事件分发机制](https://www.jianshu.com/p/238d1b753e64)
+* [ Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
+* [ Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
+* [图解Android事件传递之View篇](http://remcarpediem.com/2016/02/04/%E5%9B%BE%E8%A7%A3Android%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92%E4%B9%8BView%E7%AF%87/)
+* [图解Android事件传递之ViewGroup篇](http://remcarpediem.com/2016/02/11/%E5%9B%BE%E8%A7%A3Android%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92%E4%B9%8BViewGroup%E7%AF%87/)
+* [Android触摸事件传递分析与实践](http://www.jianshu.com/p/e75dd6fba1b7)
+* [Android6.0源码解读之View点击事件分发机制](http://blog.csdn.net/mynameishuangshuai/article/details/52900723)
+* [Android6.0源码解读之ViewGroup点击事件分发机制](http://blog.csdn.net/mynameishuangshuai/article/details/52909944)
+* [Android6.0源码解读之Activity点击事件分发机制](http://blog.csdn.net/mynameishuangshuai/article/details/52905172)
+* [Android MotionEvent详解](http://blog.csdn.net/mynameishuangshuai/article/details/52905172)
+* [一文解决Android View滑动冲突](http://www.jianshu.com/p/982a83271327)
+
+## 滚动和滑动
+
+* [Android中实现滑动的七种方式](http://www.jianshu.com/p/4eaeee19c5e4)
+
+## 手势
+
+* [Touch事件之一 触摸及手势识别GestureDetectorCompat](http://www.jianshu.com/p/33a9ace2d154)
+
+
+## 拖拽
+
 * [Android 用户界面交互---拖放（OnDragListener）](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2013/0311/1003.html)
 * [Android小Demo——OnDragListener](http://blog.csdn.net/u013983998/article/details/50536362)
-* [Touch事件之一 触摸及手势识别GestureDetectorCompat](http://www.jianshu.com/p/33a9ace2d154)
 
 ## NestedScrolling
 
+* [ NestedScrolling机制(四)——最后一个例子](http://blog.csdn.net/al4fun/article/details/53889144)
 * [ Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
 * [Android NestedScrolling机制](http://blog.csdn.net/lmj623565791/article/details/52204039)
 
