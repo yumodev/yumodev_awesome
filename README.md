@@ -8,6 +8,7 @@
 * [插件化、组件化、热修复](./android/插件化.md)
 * [Android Framework](./android/framework.md)
 * [View](./android/view.md)
+* [动画](./android/anim.md)
 * [性能优化](./android/performance.md)
 * [网络相关、okhttp](./android/net.md)
 * [虚拟机,GC,内存等](./android/jvm.md)
@@ -20,6 +21,7 @@
 * [ReactNative](./android/reactnative.md)
 * [设计模式，架构](./android/架构.md)
 * [RxJava](./android/rxjava.md)
+
 
 ## Kotlin
 
