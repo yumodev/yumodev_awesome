@@ -1,4 +1,4 @@
-#Java 并发编程
+# Java 并发编程
 
 ## 教程集合
 
@@ -9,6 +9,14 @@
 * [聊聊并发](http://ifeve.com/talk-concurrency/)
 * [IBM Java多线程与并发编程专题](https://www.ibm.com/developerworks/cn/java/j-concurrent/)
 * [Java线程文章集合](http://www.cnblogs.com/xrq730/category/733883.html)
+* [极客学院-Java 并发编程](http://wiki.jikexueyuan.com/project/java-concurrency/)
+* [极客学院-Java 并发性和多线程](http://wiki.jikexueyuan.com/project/java-concurrent/)
+* [Java并发编程-易佰教程](http://www.yiibai.com/java_concurrency/)
+* [Java并发编程系统与模型](https://yuedu.baidu.com/ebook/d09e3e28854769eae009581b6bd97f192279bf23.html?f=read)
+
+## 经验
+
+* [Java并发编程学习路线](https://zhuanlan.zhihu.com/p/25577863)
 
 ## 线程
 
