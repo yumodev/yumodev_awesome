@@ -14,7 +14,11 @@
 
 * [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65)
 
-### touch事件
+## 测量、布局、绘制
+
+* [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%20View%20%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B)
+
+## touch事件
 
 * [Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
 * [一文读懂Android View事件分发机制](https://www.jianshu.com/p/238d1b753e64)
@@ -49,6 +53,7 @@
 
 ## NestedScrolling
 
+* [](https://www.jianshu.com/p/f7989a2a3ec2)
 * [ NestedScrolling机制(四)——最后一个例子](http://blog.csdn.net/al4fun/article/details/53889144)
 * [ Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
 * [Android NestedScrolling机制](http://blog.csdn.net/lmj623565791/article/details/52204039)
