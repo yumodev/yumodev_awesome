@@ -49,9 +49,12 @@
 
 ### 位运算
 
+* [有趣的二进制](https://juejin.im/post/5a0ba0ba5188253ee45af8ff)
+* [有趣的二进制2—高效位运算](https://juejin.im/post/5a14dc876fb9a044fa197f2e)
 * [位运算大全](https://juejin.im/post/58da165061ff4b006cdd260b)
 * [位曹组基础篇之位操作全面总结](http://blog.csdn.net/morewindows/article/details/7354571)
 * [Java位操作全面总结](https://my.oschina.net/xianggao/blog/412967)
+* [你必须知道的简单的位操作技巧](https://www.cnblogs.com/programnote/p/4686330.html)
 
 ### 数组
 
