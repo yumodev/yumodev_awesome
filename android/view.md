@@ -98,6 +98,7 @@
 - [TabLayout 详细使用介绍的非常详细](https://guides.codepath.com/android/google-play-style-tabs-using-tablayout)
 - [Android Material Design working with Tabs](http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/)
 - [Material Disign Tabs](http://wiki.jikexueyuan.com/project/material-design/components/tabs.html)
+- [使用TabLayout看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA%3D%3D&mid=2247485476&idx=1&sn=f6d28e484e574fc9196f1aece5017827&chksm=96cda969a1ba207f99a37ae36c76c32cf7d276382be7bb58949187a3596be202407506bfb066)
 
 ### ToolBar
 

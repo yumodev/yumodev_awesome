@@ -23,3 +23,8 @@
 * [十分钟理解Java反射](http://www.jianshu.com/p/2efb2d1cbbc8)
 * [在Android中使用反射到底有多慢？](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402508341&idx=1&sn=960682c2cafea9702d55a879c6246c5b#rd)
 
+
+## 泛型
+
+* [设计模式番外篇之泛型](https://mp.weixin.qq.com/s?__biz=MzIyOTUzNDk0NQ==&mid=2247484594&idx=1&sn=f46ba2b82dabba2cbb11909260ffcf0b&chksm=e840793cdf37f02a6a59b3e8d8978b2b9358a93a4bb7f4bb2053648e2bc47d0ac2f78f9ee99e&scene=0#rd)
+

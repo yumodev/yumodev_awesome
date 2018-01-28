@@ -10,6 +10,7 @@
 ## 精华文章
 
 * [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
+* [设计模式也可以这么简单](https://javadoop.com/2017/10/12/design-pattern/)
 
 ## 设计模式
 
