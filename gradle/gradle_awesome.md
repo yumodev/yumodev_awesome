@@ -34,6 +34,7 @@
 * [Android Studio中gradle的一些玩法](https://juejin.im/post/589d1036b123db16a3c6d6d1)
 * [Gradle用户使用指南](http://blog.csdn.net/xiaohanluo/article/details/72644979)
 * [Android打包的那些事](http://jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+* [《巧用Gradle构建Android应用》读书笔记](http://yydcdut.com/2017/04/28/gradle-recipes-for-android/)
 
 ### 优化
 

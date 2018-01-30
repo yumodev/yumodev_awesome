@@ -6,6 +6,7 @@
 * [shixin 学设计模式](http://blog.csdn.net/column/details/zsxdesignpattern.html)
 * [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 * [史上最全设计模式导学目录(完整版)](http://blog.csdn.net/lovelion/article/details/17517213)
+* [java/android 设计模式学习笔记目录](http://blog.csdn.net/self_study/article/details/51234377)
 
 ## 精华文章
 

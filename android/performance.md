@@ -28,6 +28,7 @@
 ## 渲染
 
 * [Android性能优化之渲染篇](http://hukai.me/android-performance-render/)
+* [Android UI优化](http://yydcdut.com/2017/03/10/ui-optimize/)
 
 ## 电量
 

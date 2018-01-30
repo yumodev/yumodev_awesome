@@ -50,6 +50,9 @@
 * [Android小Demo——OnDragListener](http://blog.csdn.net/u013983998/article/details/50536362)
 * [LinearLayout 的拖放操作和动画](http://blog.zhanghai.me/drag-and-drop-with-animation-on-linearlayout/)
 * [Android长按及拖动事件探究](http://iluhcm.com/2015/09/07/android-long-click-and-drag-event/)
+* [ 神奇的 ViewDragHelper，让你轻松定制拥有拖拽能力的 ViewGroup](http://blog.csdn.net/briblue/article/details/73730386)
+* [ViewDragHelper源码解析](http://yydcdut.com/2016/06/19/viewdraghelper-analyse/)
+* [Andorid ViewDragHelper源码解析](http://www.cnblogs.com/lqstayreal/p/4500219.html)
 
 ## NestedScrolling
 
