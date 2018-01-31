@@ -50,6 +50,7 @@
 ## ActivityManagerService
 
 * [Framework源码分析（一）：ActivityManagerService](http://www.jianshu.com/p/194a37755fea)
+
 ## Context
 
 * [Android Context 上下文 你必须知道的一切](http://blog.csdn.net/lmj623565791/article/details/40481055)
@@ -78,6 +79,13 @@
 * [Android aidl Binder框架浅析](http://blog.csdn.net/lmj623565791/article/details/38461079)
 * [刘望舒-Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)
 * [AIDL的基本使用](http://www.fqxyi.com/Android/IPC/AIDL%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/)
+
+## UI、Window、Activity架构
+
+* [Activity中的Window的setContentView](http://dandanlove.com/2017/11/10/activity-setcontentview/)
+* [你需要知道的Android View的创建](http://blog.csdn.net/qq_435559203/article/details/56287015)
+* [Window源码解析(一)：与DecorView的那些事](http://yuqirong.me/2017/09/28/Window%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90(%E4%B8%80)%EF%BC%9A%E4%B8%8EDecorView%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+
 
 ## View
 
