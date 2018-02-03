@@ -19,10 +19,6 @@
 * [慕课网-ReactNative基础与入门](http://www.imooc.com/learn/808)
 * [ReactNative小书](https://elvenisboy.gitbooks.io/rnbook/content/)
 
-## ES6 
-
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-
 ## 入门
 
 * [从 Android 到 React Native 开发（一、入门）](https://juejin.im/post/58ac5b4c8ac2474faab25d1c)
