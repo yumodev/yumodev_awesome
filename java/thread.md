@@ -21,4 +21,5 @@
 ## 线程
 
 * [Java中的多线程你只要看这一篇就够了](http://www.jianshu.com/p/40d4c7aebd66)
+* [Android线程管理之Thread使用总结](www.cnblogs.com/whoislcj/p/5603277.html)
 

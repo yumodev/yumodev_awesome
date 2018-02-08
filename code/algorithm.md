@@ -64,6 +64,10 @@
 
 * [单链表的各种操作](http://www.61mon.com/index.php/archives/179/)
 * [一篇文章搞定面试中链表题目](http://www.jianshu.com/p/a64d1ef95980)
+* [链表的反转](http://zeroli.github.io/Data_Structure_and_Algorithm/2013/03/24/reverse-single-linked-list/)
+* [看图理解单链表的反转](http://blog.csdn.net/feliciafay/article/details/6841115)
+* [面试题「单链表逆序」](blog.csdn.net/ai977313677/article/details/74906850)
+* [线性表、堆栈、队列](blog.csdn.net/ai977313677/article/details/74906850)
 
 ### 栈和队列
 
