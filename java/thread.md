@@ -17,9 +17,11 @@
 ## 经验
 
 * [Java并发编程学习路线](https://zhuanlan.zhihu.com/p/25577863)
+* [并发编程2：认识并发编程的利与弊](blog.csdn.net/u011240877/article/details/58756137)
 
 ## 线程
 
 * [Java中的多线程你只要看这一篇就够了](http://www.jianshu.com/p/40d4c7aebd66)
 * [Android线程管理之Thread使用总结](www.cnblogs.com/whoislcj/p/5603277.html)
+* [并发编程1：全面认识 Thread](blog.csdn.net/u011240877/article/details/57202704)
 
