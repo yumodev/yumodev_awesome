@@ -28,3 +28,8 @@
 
 * [设计模式番外篇之泛型](https://mp.weixin.qq.com/s?__biz=MzIyOTUzNDk0NQ==&mid=2247484594&idx=1&sn=f46ba2b82dabba2cbb11909260ffcf0b&chksm=e840793cdf37f02a6a59b3e8d8978b2b9358a93a4bb7f4bb2053648e2bc47d0ac2f78f9ee99e&scene=0#rd)
 
+## 注解
+
+* [Android进阶之自定义注解](https://www.jianshu.com/p/a13c6326671d)
+* [Java注解教程及自定义注解](www.importnew.com/17413.html)
+

@@ -46,6 +46,11 @@
 ### Kotlin 基础
 
 * [区别Kotlin中的object和companion object关键字](https://mp.weixin.qq.com/s?src=11&timestamp=1509964209&ver=498&signature=EZn8ldKxZhbTrwkvGkFwv9sEI2W6S2uG*7hcBNsUV*prW90pJL51*Bo1EQwo1TF5MbYzCL5urxa-9PHRojJ5vO1WZxEcINIdiqbggjdq44HDwFzifG1PGj9wNFkfePZg&new=1)
+### Lambda
+
+* [半小时入门Kotlin中的Lambda表达式](http://tson.com/kotlin-lambda/)
+* [细说 Lambda 表达式](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483881&idx=1&sn=ddbdddd97208556f9ed6af4fe834353b&chksm=e8a05ed4dfd7d7c21014ba59b75201a601ea72734fcb1e725424ac34024e0a34c8757bd02bb1#rd)
+
 ### Kotlin Native
 
 * [Kotlin, Native 详细体验，你想要的都在这儿](http://www.kotliner.cn/2017/04/15/Kotlin%20Native%20%E8%AF%A6%E7%BB%86%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E5%84%BF/)
