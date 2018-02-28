@@ -1,4 +1,11 @@
-#Java进阶
+
+#Java
+## Java结合
+
+### 教程
+
+* [Java集合](https://juejin.im/user/5947a1a4ac502e006baa7a88/posts)
+* [Java深入理解](http://blog.csdn.net/u011240877/article/category/6447444)
 
 ## Java8
 
