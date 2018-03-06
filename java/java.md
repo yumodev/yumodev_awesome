@@ -6,6 +6,7 @@
 
 * [Java集合](https://juejin.im/user/5947a1a4ac502e006baa7a88/posts)
 * [Java深入理解](http://blog.csdn.net/u011240877/article/category/6447444)
+* [Java Collections](https://www.zybuluo.com/kiraSally/note/838754)
 
 ## Java8
 
