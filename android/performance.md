@@ -37,9 +37,18 @@
 * [Android性能专项测试](http://www.kancloud.cn/digest/itfootballprefermanc)
 
 
-### StrictMode
+## StrictMode
 
 [StrictMode](https://developer.android.com/reference/android/os/StrictMode.html)
 [Android性能调优利器StrictMode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
 [ Android严苛模式StrictMode使用详解](http://blog.csdn.net/mynameishuangshuai/article/details/51742375)
+
+## ANR
+
+* [Android ANR 详解](https://www.jianshu.com/p/c8c15608c68e)
+* [说说Android中的ANR](https://droidyue.com/blog/2015/07/18/anr-in-android/index.html)
+* [Android ANR问题总结](https://www.jianshu.com/p/fa962a5fd939)
+* [Android App优化之ANR详解](https://www.jianshu.com/p/6d855e984b99)
+
+
 
