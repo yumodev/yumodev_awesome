@@ -11,12 +11,17 @@
 
 * [Android源码系列](http://blog.csdn.net/llew2011/article/category/6129513)
 
+## APP启动
+
+* [App是如何启动的](https://www.jianshu.com/p/dde57a4eb402)
+
 ## Activity
 
 ### 原理
 
 * [Android应用程序进程启动过程的源代码分析](http://blog.csdn.net/luoshengyang/article/details/6747696)
 * [ Android应用程序启动过程源代码分析](http://blog.csdn.net/luoshengyang/article/details/6689748)
+* [Android走进Framework之AppCompatActivity.setContentView](https://www.jianshu.com/p/f72a09ea00e0)
 
 ### 使用
 

@@ -19,6 +19,10 @@
 
 * [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
 
+### 拦截器
+
+* [OkHttp 3.x 源码解析之Interceptor 拦截器](http://blog.csdn.net/sk719887916/article/details/74308343)
+
 ## Retrofit
 
 ### 官方资源
