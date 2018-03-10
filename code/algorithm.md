@@ -71,9 +71,9 @@
 
 ### 栈和队列
 
-### 树
+### 二叉树
 
-* [红黑树](http://blog.csdn.net/u011240877/article/details/53329023)
+
 * [二叉排序树、红黑树、AVL树最简单的理解](http://blog.csdn.net/linshijun33/article/details/53455149)
 * [线段树知识点总结](https://juejin.im/post/58da3706128fe1006cd866c7)
 * [一篇文章搞定面试中的二叉树题目](http://www.jianshu.com/p/0190985635eb)
@@ -81,6 +81,16 @@
 * [二叉树的各种操作（面试必备）](https://www.61mon.com/index.php/archives/191/)
 * [二叉树基础以及常用操作](https://vinoit.me/2016/10/27/binary-tree/)
 
+### 红黑树
+
+* [红黑树深入剖析及Java实现](https://tech.meituan.com/redblack-tree.html)
+* [红黑树](http://blog.csdn.net/u011240877/article/details/53329023)
+* [图解集合7：红黑树概念、红黑树的插入及旋转操作详细解读](http://www.cnblogs.com/xrq730/p/6867924.html)
+* [图解集合8：红黑树的移除节点操作](http://www.cnblogs.com/xrq730/p/6882018.html)
+
+### 哈希表
+
+* [ 重温数据结构：哈希 哈希函数 哈希表](http://blog.csdn.net/u011240877/article/details/52940469)
 ### 图
 
 * [一道经典 DFS 题（深度优先）- 算法编程实践](https://juejin.im/post/584fade10ce463005c6a9e97)
