@@ -94,7 +94,7 @@
 
 * [Android aidl Binder框架浅析](http://blog.csdn.net/lmj623565791/article/details/38461079)
 * [刘望舒-Android IPC机制（三）在Android Studio中使用AIDL实现跨进程方法调用](http://liuwangshu.cn/application/ipc/3-aidl.html)
-* [AIDL的基本使用](http://www.fqxyi.com/Android/IPC/AIDL%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/)
+* [AIDL使用以及原理分析](http://blog.csdn.net/tgbus18990140382/article/details/52799899)
 
 ## UI、Window、Activity架构
 
