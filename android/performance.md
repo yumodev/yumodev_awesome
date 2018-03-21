@@ -19,6 +19,9 @@
 
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 * [Android内存优化之OOM](http://hukai.me/android-performance-oom/)
+* [Android InputMethodManager 导致的内存泄露及解决方案](https://zhuanlan.zhihu.com/p/20828861)
+* [InputMethodManger导致的内存泄漏问题](http://panwei.info/2017/06/12/InputMethodManger%E5%AF%BC%E8%87%B4%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98/)
+* [Memory LeakInputMethodManager内存泄露现象及解决](http://www.yaoguangkeji.com/a_OkwQpRbD.html)
 
 ### MAT
 
