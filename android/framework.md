@@ -15,6 +15,12 @@
 
 * [App是如何启动的](https://www.jianshu.com/p/dde57a4eb402)
 
+## Application
+
+### 使用
+
+* [Android中Application类总结](http://blog.csdn.net/totond/article/details/72782031)
+* [Android：全面解析 Application类](https://juejin.im/entry/59c30e0ff265da06611f7024)
 ## Activity
 
 ### 原理
@@ -49,6 +55,7 @@
 * [Android之Service详解](http://blog.csdn.net/xiaohanluo/article/details/53675312)
 * [Android 面试（四）：Android Service 你真的能应答自如了吗？](https://juejin.im/post/59ffb33951882540f362ef49)
 * [安卓中'杀不死的Service'](https://www.2cto.com/kf/201704/625252.html)
+
 ### IntentService
 
 * [Android IntentService完全解析](http://blog.csdn.net/lmj623565791/article/details/47143563)
@@ -81,6 +88,16 @@
 * [SharedPreferences多进程解决方案](http://blog.csdn.net/cjh94520/article/details/70880266)
 
 ## BroadCast
+
+### 使用
+
+* [Android总结篇系列：Android广播机制](http://www.cnblogs.com/lwbqqyumidi/p/4168017.html)
+* [Android中的广播使用小结](https://www.jianshu.com/p/92ccb8ca2ea5)
+* [Android四大组件：BroadcastReceiver史上最全面解析](http://blog.csdn.net/carson_ho/article/details/52973504)
+* [Android7.0 行为变更，去掉静态接收网络变化的广播](https://developer.android.com/about/versions/nougat/android-7.0-changes.html#perm)
+* [android 亮屏，暗屏，解锁，锁屏广播监听](http://blog.csdn.net/k316378085/article/details/52086455)
+
+### 原理
 
 * [Android深入四大组件（四）广播的注册、发送和接收过程](http://liuwangshu.cn/framework/component/4-broadcastreceiver.html)
 

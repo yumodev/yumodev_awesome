@@ -63,6 +63,10 @@
 * [Groovy语法](http://groovy-lang.org/single-page-documentation.html)
 * [Groovy脚本基础全攻略](http://blog.csdn.net/yanbober/article/details/49047515)
 
+## 多目录构建
+
+* [多项目构建](https://www.zybuluo.com/xtccc/note/284604)
+
 
 
 
