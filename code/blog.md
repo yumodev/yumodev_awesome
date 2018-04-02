@@ -9,7 +9,12 @@
 
 * [技术小黑屋](http://droidyue.com/)
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
+   
+   Android源码解析和Chrome源码解析。
 * [刘望舒](http://liuwangshu.cn/)
+* [子勰的博客](http://blog.bihe0832.com/)
+
+  有不少关于Android SDK开发的总结
 * [猴子搬来的救兵Castiel](http://blog.csdn.net/mynameishuangshuai/article/list/1)
 * [胡凯](http://hukai.me/)
 * [任玉刚](http://blog.csdn.net/singwhatiwanna)
