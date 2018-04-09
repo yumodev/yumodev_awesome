@@ -67,7 +67,14 @@
 
 * [多项目构建](https://www.zybuluo.com/xtccc/note/284604)
 
+## 日志
 
+* [Android 中能够作为 Log 开关的一些操作以及安全性浅谈](https://yifeng.studio/2017/08/27/android-log-security-and-buildconfig/)
+
+## tips
+
+* [Gradle中android library默认不支持debug模式](https://www.jianshu.com/p/449f73a91f6a)
+* [解决studio打release包不打印log问题](https://blog.csdn.net/sinat_35241409/article/details/72781242)
 
 
 

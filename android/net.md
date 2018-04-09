@@ -4,6 +4,12 @@
 
 * [干货集中营API](http://gank.io/api)
 
+## Android 网络
+
+## Android WIFI
+
+* [Android-WiFi开发之 WiFi广播监听](https://www.jianshu.com/p/c0472d7b537c?mType=Group)
+
 ## OkHttp
 
 ### 源码解析
@@ -22,6 +28,11 @@
 ### 拦截器
 
 * [OkHttp 3.x 源码解析之Interceptor 拦截器](http://blog.csdn.net/sk719887916/article/details/74308343)
+
+### Https
+
+* [OkHttp 3.0 忽略https证书](https://blog.csdn.net/u014752325/article/details/73185351)
+* [OkHttp 访问自签名证书 HTTPS 地址解决方案](https://www.jianshu.com/p/cc7ae2f96b64)
 
 ## Retrofit
 
