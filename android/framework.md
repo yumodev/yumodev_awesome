@@ -87,20 +87,6 @@
 * [ContentProvider从入门到精通](http://www.jianshu.com/p/f5ec75a9cfea)
 * [SharedPreferences多进程解决方案](http://blog.csdn.net/cjh94520/article/details/70880266)
 
-## BroadCast
-
-### 使用
-
-* [Android总结篇系列：Android广播机制](http://www.cnblogs.com/lwbqqyumidi/p/4168017.html)
-* [Android中的广播使用小结](https://www.jianshu.com/p/92ccb8ca2ea5)
-* [Android四大组件：BroadcastReceiver史上最全面解析](http://blog.csdn.net/carson_ho/article/details/52973504)
-* [Android7.0 行为变更，去掉静态接收网络变化的广播](https://developer.android.com/about/versions/nougat/android-7.0-changes.html#perm)
-* [android 亮屏，暗屏，解锁，锁屏广播监听](http://blog.csdn.net/k316378085/article/details/52086455)
-
-### 原理
-
-* [Android深入四大组件（四）广播的注册、发送和接收过程](http://liuwangshu.cn/framework/component/4-broadcastreceiver.html)
-
 ## Intent
 
 ## Binder
