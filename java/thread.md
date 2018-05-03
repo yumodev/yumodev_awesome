@@ -67,9 +67,8 @@
 
 ## Map
 
-## 写时复制
 
-## TheadLocal
+## ThreadLocal
 
 * [并发番@ThreadLocal一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/854555)
 
