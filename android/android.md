@@ -7,6 +7,7 @@
 * [写给Android开发者的混淆手册](https://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b#rd)
 * [腾讯Bugly-Android 混淆那些事儿](https://mp.weixin.qq.com/s/WmJyiA3fDNriw5qXuoA9MA)
 * [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/?utm_source=androidweekly.cn&utm_medium=website)
+* [如何使用Android Studio打包混淆的Jar](https://blog.csdn.net/xqkillua/article/details/62231062)
 
 ## 保活
 
@@ -35,4 +36,8 @@
 
 * [配置方法数超过 64K 的应用](https://developer.android.com/studio/build/multidex.html#mdex-gradle)
 * [Android MultiDex 工作原理分析和优化方案](https://juejin.im/entry/584d096f0ce463005c5bd81a)
+
+## 屏幕适配
+
+* [Android APP适配全面屏手机的技术要点](https://www.jianshu.com/p/e164dec92bd8)
 

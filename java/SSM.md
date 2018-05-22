@@ -6,6 +6,8 @@
 ## 教程
 
 * [SSM SPRING+SPING MVC + MYBATIS 三大框架整合详细步骤](http://how2j.cn/k/ssm/ssm-tutorial/1137.html?tid=77)
+* [SSM个人博客项目实战](https://blog.csdn.net/xp541130126/article/category/6860628)
+* [手刃](https://www.jianshu.com/p/c4e8ff157bdc)
 
 ## 入门
 
