@@ -21,7 +21,8 @@
 - [Android WebView开发问题及优化汇总](http://www.pedant.cn/2014/09/10/webview-optimize-points/)
 - [ android webview js交互 第一节 （java和js交互](http://blog.csdn.net/wangtingshuai/article/details/8631835)
 - [WebView详解](https://juejin.im/post/59a56b2151882524424a1862#heading-6)
-
+* [史上最全WebView使用，附送Html5Activity一份](https://www.jianshu.com/p/3fcf8ba18d7f)
+* [WebView 全解析](https://juejin.im/entry/58805cbc8d6d81006ccd0b32)
 ## WebView 进阶
 
 - [Android上使用Chrome DevTools 远程调试WebView](http://blog.csdn.net/t12x3456/article/details/14225235)

@@ -41,3 +41,25 @@
 
 * [Android APP适配全面屏手机的技术要点](https://www.jianshu.com/p/e164dec92bd8)
 
+
+## 获取设备id
+
+* [如何获取Android设备唯一ID](https://github.com/giantray/stackoverflow-java-top-qa/blob/master/contents/is-there-a-unique-android-device-id.md)
+* [android获取设备唯一标示](https://cloud.tencent.com/developer/article/1031880)
+
+
+## 系统APP开发
+ 
+ * [Android 将自己的应用改为系统应用](https://blog.csdn.net/xx326664162/article/details/53406933)
+ * [Android系统签名apk，让应用获取系统级权限](https://www.jianshu.com/p/e7c5a13aa0c7)
+ * [【Android 进阶】Apk 使用系统签名](https://www.jianshu.com/p/63d699cffa1a)
+ * [Android Studio自动生成带系统签名的apk](https://blog.csdn.net/cxq234843654/article/details/51557025)
+ * [系统签名（platform）的app如何获取SHA1的值？否则用不了高德地图，百度地图定位啊](https://bbs.csdn.net/topics/392206368?page=1)
+ * [让Android Studio支持系统签名](http://connorlin.github.io/2016/04/27/%E8%AE%A9Android-Studio%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F%E7%AD%BE%E5%90%8D(%E8%AF%81%E4%B9%A6)/)
+ * [Android系统预制可自由卸载apk](http://www.wxtlife.com/2016/01/08/preinstall-app-can-uninstall/)
+
+ 
+## 签名
+ 
+ * [Android之Keystore文件签名](https://notes.wanghao.work/2016-07-03-Android%E4%B9%8BKeystore%E6%96%87%E4%BB%B6%E7%AD%BE%E5%90%8D.html)
+
