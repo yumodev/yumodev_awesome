@@ -40,6 +40,8 @@
 
 * [知道Android 中Gradle 的这些技巧，提升编译构建速度](http://tikitoo.github.io/2016/05/26/android-studio-gradle-build-run-faster/)
 * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
+* [作为Android开发你必须明白的Gradle基础](https://juejin.im/post/5b000522f265da0b7f44d1c7)
+* [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 
 ### 多渠道打包
 

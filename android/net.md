@@ -36,9 +36,17 @@
 
 ## Retrofit
 
+* [【Android】Retrofit网络请求参数注解，@Path、@Query、@QueryMap...](https://www.jianshu.com/p/7687365aa946)
+
 ### 官方资源
 
 * [Retrofit](https://square.github.io/retrofit/)
+
+## 下载
+
+### DownloadManager
+
+* [Android系统下载管理DownloadManager](https://www.jianshu.com/p/7ad92b3d9069)
 
 
 
