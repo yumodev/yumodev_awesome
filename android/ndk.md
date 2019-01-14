@@ -41,7 +41,11 @@
 
 ## JNI
 
+* [JNI/NDK 开发指南](http://wiki.jikexueyuan.com/project/jni-ndk-developer-guide/)
+* [Java Programming TutorialJava Native Interface (JNI)](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html)
 * [Android NDK开发：JNI基础篇](http://cfanr.cn/2017/07/29/Android-NDK-dev-JNI-s-foundation/)
+* [使用 Java Native Interface 的最佳实践](https://www.ibm.com/developerworks/cn/java/j-jni/index.html)
+* [理解 JNI 技术](https://pqpo.me/2017/05/17/jni/)
 
 ## SO库
 
@@ -51,6 +55,13 @@
 ## c++
 
 * [Android开发的C++基础Notes](http://cfanr.cn/2017/07/28/Android-dev-cpp-foundation-knowlege-notes/)
+
+
+## Crash崩溃解决
+
+* [调试Android平台原生代码](https://source.android.google.cn/devices/tech/debug) 
+* [诊断原生代码崩溃问题](https://source.android.com/devices/tech/debug/native-crash)
+* [Android NDK Tombstone/Crash 分析](https://woshijpf.github.io/android/2016/06/14/Android-NDK-Tombstone-Crash-%E5%88%86%E6%9E%90.html)
 
 
 

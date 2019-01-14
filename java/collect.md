@@ -83,3 +83,9 @@
 
 * [ Java 集合深入理解（13）：Stack 栈](http://blog.csdn.net/u011240877/article/details/52901274)
 
+## ConcurrentLinkedQueue
+
+* [聊聊并发（六）——ConcurrentLinkedQueue的实现原理分析](http://www.infoq.com/cn/articles/ConcurrentLinkedQueue)
+* [并发一枝花之 ConcurrentLinkedQueue](http://www.importnew.com/27052.html)
+* [JDK并发工具类源码学习系列——ConcurrentLinkedQueue](http://vickyqi.com/2015/10/29/JDK%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E2%80%94%E2%80%94ConcurrentLinkedQueue/)
+

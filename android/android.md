@@ -57,9 +57,22 @@
  * [系统签名（platform）的app如何获取SHA1的值？否则用不了高德地图，百度地图定位啊](https://bbs.csdn.net/topics/392206368?page=1)
  * [让Android Studio支持系统签名](http://connorlin.github.io/2016/04/27/%E8%AE%A9Android-Studio%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F%E7%AD%BE%E5%90%8D(%E8%AF%81%E4%B9%A6)/)
  * [Android系统预制可自由卸载apk](http://www.wxtlife.com/2016/01/08/preinstall-app-can-uninstall/)
-
+ * [android system app 开发](https://www.jianshu.com/p/63e4f0eb7386)
+ * [带so库的apk正确内置到system/app详解](https://www.jianshu.com/p/bd965e447e6e)
+ * [Android 静默更新安装 apk](https://blog.csdn.net/lxmy2012/article/details/79799003)
+ * [Android增量更新（二）静默安装](http://ibigerbiger.me/2017/04/02/Android%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85/)
+ * [对Android系统权限的认识（包含如何获得root权限思路）](https://blog.csdn.net/koozxcv/article/details/50835601)
+ * [Android push app to /system/app/](https://www.jishux.com/p/0ad0deff9ca61c1a)
+ * [Android APK安装与卸载机制](https://chaman.gitbooks.io/techblog/Android/apk-install-uninstall/apk-install-uninstall.html)
  
 ## 签名
  
  * [Android之Keystore文件签名](https://notes.wanghao.work/2016-07-03-Android%E4%B9%8BKeystore%E6%96%87%E4%BB%B6%E7%AD%BE%E5%90%8D.html)
+
+## 更新
+
+* [Android实现静默安装和智能安装](https://www.jianshu.com/p/a46c318ba8b2)
+* [Android常用代码之普通及系统权限静默安装APK](http://www.trinea.cn/android/android-install-silent/)
+* [【Android OTA】应用的更新升级](https://www.jianshu.com/p/ae122b877885)
+* [Android OTA静默升级](https://blog.csdn.net/foolish0421/article/details/79074366)
 

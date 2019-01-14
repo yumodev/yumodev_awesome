@@ -19,9 +19,11 @@
 * [Gradle入门系列文章](http://www.cnblogs.com/davenkin/p/gradle-learning-1.html)
 * [JavaGradle入门指南系列文章](http://www.cnblogs.com/gzdaijie/category/798374.html)
 
+
 ## 资源大全
 
 ## Android
+
 ### 入门
 
 * [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
@@ -35,6 +37,16 @@
 * [Gradle用户使用指南](http://blog.csdn.net/xiaohanluo/article/details/72644979)
 * [Android打包的那些事](http://jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 * [《巧用Gradle构建Android应用》读书笔记](http://yydcdut.com/2017/04/28/gradle-recipes-for-android/)
+* [Gradle 入门到精通（一）](https://blog.csdn.net/seemygoandroid/article/details/75389005)
+* [Gradle 入门到精通（二）](https://blog.csdn.net/seemygoandroid/article/details/75651683)
+* [Gradle 入门到精通（三）](https://blog.csdn.net/seemygoandroid/article/details/76125055)
+* [Gradle 入门到精通（四）](https://blog.csdn.net/seemygoandroid/article/details/76125299)
+* [Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423?locationNum=14)
+
+### Gradle命令
+
+* [Gradle命令行黑魔法](https://www.cnblogs.com/huang0925/p/3295862.html)
+* [第一个Gradle脚本及简单命令](https://segmentfault.com/a/1190000008594314)
 
 ### 优化
 
@@ -60,10 +72,7 @@
 * [拥抱 Android Studio 之五：Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
 * [在AndroidStudio中自定义Gradle插件](http://blog.csdn.net/huachao1001/article/details/51810328)
 
-## Groovy
 
-* [Groovy语法](http://groovy-lang.org/single-page-documentation.html)
-* [Groovy脚本基础全攻略](http://blog.csdn.net/yanbober/article/details/49047515)
 
 ## 多目录构建
 
@@ -77,6 +86,8 @@
 
 * [Gradle中android library默认不支持debug模式](https://www.jianshu.com/p/449f73a91f6a)
 * [解决studio打release包不打印log问题](https://blog.csdn.net/sinat_35241409/article/details/72781242)
+
+
 
 
 
