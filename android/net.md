@@ -42,11 +42,22 @@
 
 ## Retrofit
 
-* [【Android】Retrofit网络请求参数注解，@Path、@Query、@QueryMap...](https://www.jianshu.com/p/7687365aa946)
-
 ### 官方资源
 
 * [Retrofit](https://square.github.io/retrofit/)
+
+## 使用
+
+* [这是一份很详细的 Retrofit 2.0 使用教程（含实例讲解）](https://blog.csdn.net/carson_ho/article/details/73732076)
+* [你真的会用Retrofit2吗?Retrofit2完全教程](https://www.jianshu.com/p/308f3c54abdd)
+* [【Android】Retrofit网络请求参数注解，@Path、@Query、@QueryMap...](https://www.jianshu.com/p/7687365aa946)
+* [Retrofit2深入浅出](https://www.jianshu.com/p/f2644cc784f3)
+
+## 原理
+
+
+* [「Android技术汇」Retrofit2 源码解析和案例说明](https://zhuanlan.zhihu.com/p/21662195)
+
 
 ## 下载
 
@@ -62,6 +73,25 @@
 * [Android DownloadManager 的使用及断点续传](https://blog.csdn.net/inconsolabl/article/details/48085903)
 * [Android系统下载管理DownloadManager功能介绍及使用示例](http://www.trinea.cn/android/android-downloadmanager/)
 
+## WebSocket
+
+### 开源库
+
+* [Java-WebSocket https://github.com/TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
+* [WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)
+
+### 原理
+
+* [WebSocket 是什么原理？为什么可以实现持久连接？](http://www.zhihu.com/question/20215561)
+* [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+
+### Okhttp实现
+
+* [Android最佳实践——深入浅出WebSocket协议](https://blog.csdn.net/sbsujjbcy/article/details/52839540)
+* [使用okhttp的websocket实现长连接](https://www.jianshu.com/p/e095f5cafc7e)
+* [android 使用Okhttp3实现 websocket 连接并实现通信](https://blog.csdn.net/qaz520929/article/details/80496281)
+* [OkHttp实现分析之Websocket](https://juejin.im/entry/5a73d44af265da4e721c4a9c)
+* [OkHttp使用分析—WebSocket篇](https://www.jianshu.com/p/eb130c41ce2b)
 
 
 
