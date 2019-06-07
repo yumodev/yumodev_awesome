@@ -5,8 +5,12 @@
 * [shixin Java集合](http://blog.csdn.net/u011240877/article/category/6447444)
 * [Java集合源码剖析](http://blog.csdn.net/column/details/collection.html)
 * [图解集合框架](http://www.cnblogs.com/xrq730/category/759081.html)
+* [Java 集合系列目录](https://www.cnblogs.com/skywang12345/p/3323085.html)
 
 ## 集合架构
+
+* [Java核心技术梳理-集合](https://www.cnblogs.com/yuanqinnan/p/10770270.html)
+* [java集合框架综述](https://www.cnblogs.com/xiaoxi/p/6089984.html)
 
 ## Map
 

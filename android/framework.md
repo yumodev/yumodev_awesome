@@ -1,11 +1,25 @@
-## Android Framework层的资源收藏
+# Android源码相关资源
 
-## Andorid源码
+## Android源码
 
-* [Android源代码](https://source.android.com/)
+### 在线Android源码
+
 * [AndroidXRef](http://androidxref.com/)
 * [Android-Framework-base源代码](https://android.googlesource.com/platform/frameworks/base/)
 * [2.0-5.0在线源码](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+
+### 源码编译
+
+* [自己动手编译最新Android源码及SDK(Ubuntu)](https://blog.csdn.net/dd864140130/article/details/51718187)
+* [AOSP 源码整编单编](https://mp.weixin.qq.com/s/Dk2XOUujbXJuWiRor8Jprg)
+* [AndroidStudio源码开发环境搭建](http://gityuan.com/2016/08/13/android-os-env/)
+* [使用AndroidStudio查看并调试Android源码](https://blog.csdn.net/cfy137000/article/details/83718735)
+
+### 源码阅读
+
+### 源码博客
+
+* [Gityuan](http://gityuan.com/)
 
 ## Andorid源码解析
 
@@ -21,6 +35,7 @@
 
 * [Android中Application类总结](http://blog.csdn.net/totond/article/details/72782031)
 * [Android：全面解析 Application类](https://juejin.im/entry/59c30e0ff265da06611f7024)
+
 ## Activity
 
 ### 原理
