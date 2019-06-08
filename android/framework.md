@@ -56,6 +56,36 @@
 
 * [LocalActivityManager详解](http://www.cnblogs.com/wei1228565493/p/4560806.html)
 
+## Service
+
+
+### 使用
+
+* [Developers-Service](https://developer.android.com/guide/components/services.html?hl=zh-cn)
+* [郭霖- Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
+* [郭霖- Android Service完全解析，关于服务你所需知道的一切(下)](http://blog.csdn.net/guolin_blog/article/details/9797169)
+* [Android服务详解](http://www.jianshu.com/p/95ec2a23f300)
+* [Service要点解析](http://blog.csdn.net/shakespeare001/article/details/51463559)
+* [Service知识总结](http://mouxuejie.com/blog/2016-04-16/service-intentservice-analysis/)
+* [Service全面总结](http://blog.csdn.net/XSF50717/article/details/78405216)
+* [Android之Service详解](http://blog.csdn.net/xiaohanluo/article/details/53675312)
+* [Android 面试（四）：Android Service 你真的能应答自如了吗？](https://juejin.im/post/59ffb33951882540f362ef49)
+* [安卓中'杀不死的Service'](https://www.2cto.com/kf/201704/625252.html)
+
+### IntentService
+
+* [Android IntentService完全解析](http://blog.csdn.net/lmj623565791/article/details/47143563)
+* [IntentService示例和详解](http://www.jianshu.com/p/332b6daf91f0)
+
+### 原理
+
+* [startService启动过程分析](http://gityuan.com/2016/03/06/start-service/)
+* [ Android Service的启动过程](http://blog.csdn.net/xyh269/article/details/52818873)
+* [Android Service的绑定过程](http://blog.csdn.net/xyh269/article/details/52843302)
+* [刘望舒-Service启动过程](http://liuwangshu.cn/framework/component/2-service-start.html)
+* [刘望舒-Service绑定过程](http://liuwangshu.cn/framework/component/3-service-bind.html)
+* [一图解惑之android管理service数据结构](https://suojingchao.github.io/2017/12/20/%E4%B8%80%E5%9B%BE%E8%A7%A3%E6%83%91%E4%B9%8BAndroid%E7%AE%A1%E7%90%86Service%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
+
 ## ActivityManagerService
 
 * [Framework源码分析（一）：ActivityManagerService](http://www.jianshu.com/p/194a37755fea)
@@ -71,6 +101,46 @@
 * [ContentProvider启动过程](http://liuwangshu.cn/framework/component/5-contentprovider-start.html)
 * [ Android应用程序组件Content Provider应用实例](http://blog.csdn.net/luoshengyang/article/details/6950440)
 * [ContentProvider从入门到精通](http://www.jianshu.com/p/f5ec75a9cfea)
+
+
+## 广播
+
+
+### 原理
+
+* [Android深入四大组件（四）广播的注册、发送和接收过程](http://liuwangshu.cn/framework/component/4-broadcastreceiver.html)
+
+### 使用
+
+* [Android总结篇系列：Android广播机制](http://www.cnblogs.com/lwbqqyumidi/p/4168017.html)
+* [Android中的广播使用小结](https://www.jianshu.com/p/92ccb8ca2ea5)
+* [Android四大组件：BroadcastReceiver史上最全面解析](http://blog.csdn.net/carson_ho/article/details/52973504)
+
+
+### 开关机广播，重启广播
+
+* [Android应用如何开机自启动、自启动失败原因](http://www.trinea.cn/android/android-boot_completed-not-work/)
+* [为什么监听不到开机广播action.BOOT_COMPLETED](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0709/1630.html)
+* [如何监听设备重新启动](http://developer.huawei.com/ict/forum/thread-23337-1-1.html)
+* [关于BOOT_COMPLETED广播-自启动](https://www.jianshu.com/p/679dc03ee650)
+
+### 锁屏广播
+
+* [android 亮屏，暗屏，解锁，锁屏广播监听](http://blog.csdn.net/k316378085/article/details/52086455)
+
+### 网络变化广播
+
+* [Android7.0 行为变更，去掉静态接收网络变化的广播](https://developer.android.com/about/versions/nougat/android-7.0-changes.html#perm)
+
+### 电量广播
+
+* [监控电池电量和充电状态](http://yeungeek.com/2014/10/31/%E7%9B%91%E6%8E%A7%E7%94%B5%E6%B1%A0%E7%94%B5%E9%87%8F%E5%92%8C%E5%85%85%E7%94%B5%E7%8A%B6%E6%80%81/)
+* [监控电池电量和充电状态](https://developer.android.com/training/monitoring-device-state/battery-monitoring?hl=zh-cn)
+
+### WakefulBroadcastReceiver
+
+* [WakefulBroadcastReceiver 学习笔记](https://www.jianshu.com/p/5b8bfa6a6c37)
+* [WakefulBroadcastReceiver](https://developer.android.com/reference/android/support/v4/content/WakefulBroadcastReceiver)
 
 ## Intent
 
