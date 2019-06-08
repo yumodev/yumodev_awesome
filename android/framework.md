@@ -1,12 +1,34 @@
 # Android源码相关资源
 
-## Android源码
-
-### 在线Android源码
+## 在线Android源码网站
 
 * [AndroidXRef](http://androidxref.com/)
 * [Android-Framework-base源代码](https://android.googlesource.com/platform/frameworks/base/)
 * [2.0-5.0在线源码](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+
+## Android源码解析的博客和教程
+
+### 博客
+
+* [Gityuan](http://gityuan.com/)
+* [刘望舒的博客](http://liuwangshu.cn/)
+* [Cheson Blog](http://chendongqi.me/tags/)
+* [任玉刚的博客-高手进阶](https://blog.csdn.net/singwhatiwanna/article/category/1405419)
+* [老罗的Android之旅](https://blog.csdn.net/Luoshengyang/)
+* [Innost的专栏](https://blog.csdn.net/innost)
+* [Andy的博客-李 华 乾 ](http://huaqianlee.github.io/2100/11/21/Android/A-summary-of-Android-source-analysis/)
+* [墨香](http://codemx.cn/)
+
+### 教程
+
+* [Android源码系列](http://blog.csdn.net/llew2011/article/category/6129513)
+* [《Android 9.0 系统开发源码钻研录》](https://segmentfault.com/blog/superandroid)
+* [Android open source project analysis](https://guoxiaoxing.gitbooks.io/android-open-source-project-analysis/content/)
+* [android源码解析](https://blog.csdn.net/qq_23547831/column/info/androidframeworks)
+* [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+* [Android源码分析](https://www.jianshu.com/p/69903586f8ba)
+
+## 源码编译和调试
 
 ### 源码编译
 
@@ -15,21 +37,23 @@
 * [AndroidStudio源码开发环境搭建](http://gityuan.com/2016/08/13/android-os-env/)
 * [使用AndroidStudio查看并调试Android源码](https://blog.csdn.net/cfy137000/article/details/83718735)
 
-### 源码阅读
 
-### 源码博客
+### 源码目录
 
-* [Gityuan](http://gityuan.com/)
-
-## Andorid源码解析
-
-* [Android源码系列](http://blog.csdn.net/llew2011/article/category/6129513)
+* [Android系统架构与系统源码目录](http://www.androidchina.net/6350.html)
 
 ## APP启动
 
 * [App是如何启动的](https://www.jianshu.com/p/dde57a4eb402)
 
-## Application
+## Application和Context
+
+### Context
+
+* [一种 Android 应用内全局获取 Context 实例的装置](http://kaedea.com/2017/04/09/android/global-accessing-context/)
+* [Android Context 上下文 你必须知道的一切](http://blog.csdn.net/lmj623565791/article/details/40481055)
+* [Android深入理解Context（一）Context关联类和Application Context创建过程](http://liuwangshu.cn/framework/context/1-application-context.html)
+* [Android深入理解Context（二）Activity和Service的Context创建过程](http://liuwangshu.cn/framework/context/2-activity-service.html)
 
 ### 使用
 
@@ -90,11 +114,7 @@
 
 * [Framework源码分析（一）：ActivityManagerService](http://www.jianshu.com/p/194a37755fea)
 
-## Context
 
-* [Android Context 上下文 你必须知道的一切](http://blog.csdn.net/lmj623565791/article/details/40481055)
-* [Android深入理解Context（一）Context关联类和Application Context创建过程](http://liuwangshu.cn/framework/context/1-application-context.html)
-* [Android深入理解Context（二）Activity和Service的Context创建过程](http://liuwangshu.cn/framework/context/2-activity-service.html)
 
 ## ContentProvider
 
