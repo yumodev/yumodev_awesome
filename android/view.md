@@ -13,6 +13,7 @@
 ## View
 
 * [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65)
+* [Android应用坐标系统全面详解](https://blog.csdn.net/yanbober/article/details/50419117)
 
 ## 测量、布局、绘制
 
@@ -36,6 +37,10 @@
 ## 滚动和滑动
 
 * [Android中实现滑动的七种方式](http://www.jianshu.com/p/4eaeee19c5e4)
+
+## 动画
+
+* [Android应用开发之所有动画使用详解](https://blog.csdn.net/yanbober/article/details/46481171)
 
 ## 手势
 

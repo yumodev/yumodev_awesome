@@ -14,6 +14,9 @@
 
 ### 源码解析
 
+* [开源架构解析系列](https://blog.csdn.net/qq_30993595/article/category/7970807)
+* [OKhttp源码解析详解系列](https://www.jianshu.com/p/cbfd40247766)
+* [OKhttp系列](https://blog.csdn.net/qq_29405933/article/category/8340555)
 * [OkHttp3源码分析\[综述\]](http://www.jianshu.com/p/aad5aacd79bf)
 * [OkHttp3源码分析\[复用连接池\]](http://www.jianshu.com/p/92a61357164b)
 * [OkHttp3源码分析\[缓存策略\]](http://www.jianshu.com/p/9cebbbd0eeab)
@@ -28,6 +31,17 @@
 ### 拦截器
 
 * [OkHttp 3.x 源码解析之Interceptor 拦截器](http://blog.csdn.net/sk719887916/article/details/74308343)
+
+### 缓存
+
+* [okhttp 缓存实践](https://www.jianshu.com/p/4550f14338db)
+* [okhttp之旅（十一）--缓存策略](https://www.jianshu.com/p/eca3d9371248)
+* [OKHTTP拦截器缓存策略CacheInterceptor的简单分析](https://www.jianshu.com/p/8d0bc05104ef)
+
+### CallServerInterceptor
+
+* [OkHttp源码解析7：CallServerInterceptor流程](https://caofengbin.github.io/2018/04/16/okhttp-call-server-interceptor/)
+* [OKHTTP拦截器CallServerInterceptor的简单分析](https://www.jianshu.com/p/4510ae14dbe9)
 
 ### Https
 
@@ -57,6 +71,8 @@
 
 
 * [「Android技术汇」Retrofit2 源码解析和案例说明](https://zhuanlan.zhihu.com/p/21662195)
+* [Android：手把手带你 深入读懂 Retrofit 2.0 源码](https://www.jianshu.com/p/0c055ad46b6c)
+* [Retrofit源码解析](https://juejin.im/post/5902d4c5570c3500580c56f5)
 
 
 ## 下载

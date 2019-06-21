@@ -19,6 +19,7 @@
 
 ## HashMap
 
+* [由HashMap哈希算法引出的求余%和与运算&转换问题](https://www.cnblogs.com/ysocean/p/9054804.html)
 * [Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://javadoop.com/post/hashmap)
 * [java集合源码剖析-HashMap源码剖析 基于Java7](http://blog.csdn.net/ns_code/article/details/36034955)
 * [Java 8系列之重新认识HashMap](https://tech.meituan.com/java-hashmap.html)
@@ -30,12 +31,15 @@
 * [集合番@HashMap一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/819843)
 * [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
 * [hashMap面试必备](https://juejin.im/post/599652796fb9a0249975a318)
+* [老生常谈，HashMap的死循环](https://www.jianshu.com/p/1e9cf0ac07f4)
+
 
 ## LinkedHashMap
 
 * [【Java集合源码剖析】LinkedHashmap源码剖析-基于Java7](http://blog.csdn.net/ns_code/article/details/37867985)
 * [图解集合6：LinkedHashMap](http://www.cnblogs.com/xrq730/p/5052323.html)
 * [集合番@LinkedHashMap一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/821256)
+* [LinkedHashMap源码解析](https://juejin.im/post/5997ff966fb9a024851009b7)
 
 ## ArrayMap
 
@@ -60,6 +64,7 @@
 * [图解集合1：ArrayList](http://www.cnblogs.com/xrq730/p/4989451.html)
 * [集合番@ArrayList一文通（1.8版）](https://www.zybuluo.com/kiraSally/note/838754)
 * [集合番@ArrayList一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/825796)
+* [面试必备：ArrayList源码解析（JDK8）](https://juejin.im/post/59954d9e6fb9a0248a3fd606)
 
 ## CopyOnWriteArrayList
 
@@ -70,10 +75,12 @@
 * [【Java集合源码剖析】LinkedList源码剖析-基于Java7](http://blog.csdn.net/ns_code/article/details/35787253)
 * [图解集合2：LinkedList](http://www.cnblogs.com/xrq730/p/5005347.html)
 * [集合番@LinkedList一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/826362)
+* [面试必备：LinkedList源码解析（JDK8）](https://juejin.im/post/59956fc551882524401210ae)
 
 ## HashSet
 
 * [集合番@HashSet一文通（1.7版）](https://www.zybuluo.com/kiraSally/note/820810)
+
 ## LinkedHashSet
 
 * [集合番@LinkedHashSet一文通（1.7版）]( https://www.zybuluo.com/kiraSally/note/825758)

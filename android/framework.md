@@ -40,9 +40,32 @@
 
 ### 源码目录
 
-* [Android系统架构与系统源码目录](http://www.androidchina.net/6350.html)
+* [Android系统架构与系统源码目录](http://liuwangshu.cn/framework/system-architecture.html)
 
-## APP启动
+## Android启动
+
+### init
+
+* [Android系统启动流程（一）解析init进程启动过程](http://liuwangshu.cn/framework/booting/1-init.html)
+* [Android系统启动流程之init进程启动](https://jsonchao.github.io/2019/02/18/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E4%B9%8Binit%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8/)
+
+### zygote
+
+* [Android系统启动流程（二）解析Zygote进程启动过程](http://liuwangshu.cn/framework/booting/2-zygote.html)
+
+### SystemServer
+
+* [Android系统启动流程之SystemServer进程启动](https://jsonchao.github.io/2019/03/03/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%B5%81%E4%B9%8BSystemServer%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8/)
+* [Android系统启动流程（三）解析SyetemServer进程启动过程](http://liuwangshu.cn/framework/booting/3-syetemserver.html)
+* [Android系统启动-SystemServer上篇](http://gityuan.com/2016/02/14/android-system-server/)
+* [Android系统启动-SystemServer下篇](http://gityuan.com/2016/02/20/android-system-server-2/)
+
+### lunch启动
+
+* [Android系统启动流程（四）Launcher启动过程与系统启动流程](http://liuwangshu.cn/framework/booting/4-launcher.html)
+* [Android系统启动流程之Launcher进程启动](https://jsonchao.github.io/2019/03/09/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E4%B9%8BLauncher%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8/)
+
+### APP启动
 
 * [App是如何启动的](https://www.jianshu.com/p/dde57a4eb402)
 
@@ -67,6 +90,9 @@
 * [Android应用程序进程启动过程的源代码分析](http://blog.csdn.net/luoshengyang/article/details/6747696)
 * [ Android应用程序启动过程源代码分析](http://blog.csdn.net/luoshengyang/article/details/6689748)
 * [Android走进Framework之AppCompatActivity.setContentView](https://www.jianshu.com/p/f72a09ea00e0)
+* [重学Android——基于Android9.0的Activity启动流程](https://juejin.im/post/5cfb97006fb9a07f0052cdc5?utm_source=gold_browser_extension)
+* [（Android 9.0）Activity启动流程源码分析](https://blog.csdn.net/lj19851227/article/details/82562115)
+* [从应用角度看Android源码 - 是谁调用的ActivityThread的main方法](https://blog.csdn.net/w1143408997/article/details/76862002?locationNum=7&fps=1)
 
 ### 使用
 
