@@ -53,7 +53,8 @@
 * [Android 偶遇HTTPS](http://blog.majiajie.me/2016/05/11/Android-%E5%81%B6%E9%81%87HTTPS/)
 * [聊聊 Android HTTPS 的使用姿势](https://juejin.im/entry/58cf9034a22b9d0064374dd9)
 * [通过 HTTPS 和 SSL 确保安全](https://developer.android.com/training/articles/security-ssl)
-
+* [HTTPS原理及OKHTTP对HTTPS的支持](https://www.jianshu.com/p/f2097616e65e)
+* [HTTPS加密过程和TLS证书验证](https://www.jianshu.com/p/f6b34381beac)
 ## Retrofit
 
 ### 官方资源
