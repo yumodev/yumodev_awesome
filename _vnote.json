@@ -1,0 +1,49 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-08-04T22:13:48Z",
+    "files": [
+    ],
+    "image_folder": "media",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "android"
+        },
+        {
+            "name": "c"
+        },
+        {
+            "name": "code"
+        },
+        {
+            "name": "flutter"
+        },
+        {
+            "name": "gradle"
+        },
+        {
+            "name": "java"
+        },
+        {
+            "name": "kotlin"
+        },
+        {
+            "name": "linux"
+        },
+        {
+            "name": "python"
+        },
+        {
+            "name": "web"
+        },
+        {
+            "name": "weixin"
+        },
+        {
+            "name": "产品"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
