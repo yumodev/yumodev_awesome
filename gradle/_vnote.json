@@ -1,0 +1,48 @@
+{
+    "created_time": "2019-08-04T22:13:48Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-04T22:13:48Z",
+            "modified_time": "2019-08-04T22:13:48Z",
+            "name": "gradle_awesome.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-04T22:13:48Z",
+            "modified_time": "2019-08-04T22:13:48Z",
+            "name": "gradle_plugin.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-04T22:13:48Z",
+            "modified_time": "2019-08-04T22:13:48Z",
+            "name": "Groovy.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-04T22:13:48Z",
+            "modified_time": "2019-08-04T22:13:48Z",
+            "name": "jar.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
